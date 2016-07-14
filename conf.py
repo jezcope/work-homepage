@@ -130,7 +130,7 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        # ("/test-page/", "Test page"),
+        ("/talks/", "Talks"),
         # ("/blog/", "Blog"),
         # ("/archive.html", "archive"),
         # ("/categories/", "tags"),
@@ -139,7 +139,8 @@ NAVIGATION_LINKS = {
 }
 
 # name of the theme to use.
-theme = "bootstrap3"
+# THEME = "material-theme"
+THEME = "bootstrap3"
 
 # primary color of your theme. this will be used to customize your theme and
 # auto-generate related colors in posts_section_colors. must be a hex value.
@@ -234,6 +235,11 @@ TIMEZONE = "Europe/London"
 # default is:
 # files_folders = {'files': ''}
 # which means copy 'files' into 'output'
+FILES_FOLDERS = {
+    'files': '',
+    'talks': 'talks',
+    'assets': 'assets',
+}
 
 # one or more folders containing code listings to be processed and published on
 # the site. the format is a dictionary of {source: relative destination}.
@@ -1166,7 +1172,28 @@ UNSLUGIFY_TITLES = True
 
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
-GLOBAL_CONTEXT = {}
+GLOBAL_CONTEXT = {
+    "social_links": [
+        {
+            'bgcolor': "#F44336",
+            'icon': "<i class='fa fa-share-square-o'></i>"
+        },
+        {
+            "url": "https://twitter.com/jezcope",
+            "bgcolor": "#55ACEE",
+            "color": "#fffff",
+            "icon": "<i class='fa fa-twitter'></i>",
+            "target": "_blank"
+        },
+        {
+            "url": "https://github.com/jezcope",
+            "bgcolor": "#666666",
+            "color": "#fffff",
+            "icon": "<i class='fa fa-github-square'></i>",
+            "target": "_blank"
+        },
+    ]
+}
 
 # Add functions here and they will be called with template
 # GLOBAL_CONTEXT as parameter when the template is about to be
