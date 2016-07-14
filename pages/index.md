@@ -9,18 +9,16 @@
 .. type: text
 -->
 
-This is my University of Sheffield personal home page. Use the menu above to find your way around.
-
-## About me
-
+<div class="jumbotron">
 ![Avatar](/assets/images/avatar.jpg){.col-md-2 .pull-right .img-rounded}
-I help people use technology to let them focus on what matters most. I am currently responsible for research data **management** at the [University of Sheffield](http://www.sheffield.ac.uk). This includes:
+I help people use technology to let them focus on what matters most. I am currently responsible for research data management at the [University of Sheffield](http://www.sheffield.ac.uk). This includes:
 
 - [ORDA (Online Research Data)](https://sheffield.figshare.com/), a platform for researchers to share their data with the world, powered by [figshare](https://figshare.com/institutions)
 - Guidance, advice and templates for research data management, including data management planning, looking after data, and preservation & sharing
 - Policy development
 - Advocacy and outreach activities, including presentations to departments, institutes and research groups
 - Consultancy and support on discipline-specific research data management projects
+</div>
 
 I'm based in the [University Library](http://www.sheffield.ac.uk/library), but work closely with colleagues in [Research & Innovation Services (RIS)](http://www.sheffield.ac.uk/ris) and [Corporate Information & Computing Services (CICS)](http://www.sheffield.ac.uk/cics).
 

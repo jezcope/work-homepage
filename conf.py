@@ -141,7 +141,8 @@ NAVIGATION_LINKS = {
 # name of the theme to use.
 # THEME = "material-theme"
 # THEME = "bootstrap3"
-THEME = "yeti"
+# THEME = "yeti"
+THEME = "readable"
 
 # primary color of your theme. this will be used to customize your theme and
 # auto-generate related colors in posts_section_colors. must be a hex value.
