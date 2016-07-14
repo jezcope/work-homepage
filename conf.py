@@ -130,7 +130,13 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/talks/", "Talks"),
+        (
+            (
+                ("/talks/intro-to-rdm.html", "Introduction to RDM"),
+                ("/talks/", "All"),
+            ),
+            "Talks"
+        ),
         # ("/blog/", "Blog"),
         # ("/archive.html", "archive"),
         # ("/categories/", "tags"),
