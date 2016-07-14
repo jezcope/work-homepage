@@ -9,11 +9,11 @@
 .. type: text
 -->
 
-<!-- ![Avatar](/assets/images/avatar.jpg) -->
-This is my University of Sheffield personal home page. Please use the menu on the left to find your way around.
+This is my University of Sheffield personal home page. Use the menu above to find your way around.
 
 ## About me
 
+![Avatar](/assets/images/avatar.jpg){.col-md-2 .pull-right .img-rounded}
 I help people use technology to let them focus on what matters most. I am currently responsible for research data **management** at the [University of Sheffield](http://www.sheffield.ac.uk). This includes:
 
 - [ORDA (Online Research Data)](https://sheffield.figshare.com/), a platform for researchers to share their data with the world, powered by [figshare](https://figshare.com/institutions)
