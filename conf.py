@@ -140,11 +140,12 @@ NAVIGATION_LINKS = {
 
 # name of the theme to use.
 # THEME = "material-theme"
-THEME = "bootstrap3"
+# THEME = "bootstrap3"
+THEME = "yeti"
 
 # primary color of your theme. this will be used to customize your theme and
 # auto-generate related colors in posts_section_colors. must be a hex value.
-theme_color = '#5670d4'
+# theme_color = '#5670d4'
 
 # posts and pages contains (wildcard, destination, template) tuples.
 #
