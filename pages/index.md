@@ -24,5 +24,10 @@ I'm based in the [University Library](http://www.sheffield.ac.uk/library), but w
 
 I also blog sporadically about using technology to support research. Find me elsewhere on the web:
 
-- **Blog:** [eRambler](http://erambler.co.uk/)
-- **Twitter:** [\@jezcope](https://twitter.com/jezcope)
+- [**Blog:** eRambler](http://erambler.co.uk/)
+- [**Twitter:** \@jezcope](https://twitter.com/jezcope)
+- [**github:** jezcope](https://github.com/jezcope)
+- [**orcid.org**/0000-0003-3629-1383](https://orcid.org/0000-0003-3629-1383)
+- [**LinkedIn**](https://linkedin.com/in/jezcope)
+- [**Diigo:** jezcope](http://diigo.com/user/jezcope)
+- [**Zotero:** jezcope](https://www.zotero.org/jezcope)
