@@ -10,7 +10,7 @@
 -->
 
 <div class="jumbotron">
-![Avatar](/assets/images/avatar.jpg){.col-md-2 .pull-right .img-rounded}
+![Avatar](/assets/images/avatar.jpg){.col-md-2 .col-sm-4 .col-xs-6 .pull-right .img-rounded}
 I help people use technology to let them focus on what matters most. I am currently responsible for research data management at the [University of Sheffield](http://www.sheffield.ac.uk). This includes:
 
 - [ORDA (Online Research Data)](https://sheffield.figshare.com/), a platform for researchers to share their data with the world, powered by [figshare](https://figshare.com/institutions)
