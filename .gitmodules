@@ -1,0 +1,4 @@
+[submodule "output"]
+	path = output
+	url = git@github.com:jezcope/work-homepage.git
+	branch = gh-pages
