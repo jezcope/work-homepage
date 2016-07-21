@@ -20,7 +20,7 @@ I help people use technology to let them focus on what matters most. I am curren
 - Consultancy and support on discipline-specific research data management projects
 </div>
 
-I'm based in the [University Library](http://www.sheffield.ac.uk/library), but work closely with colleagues in [Research & Innovation Services (RIS)](http://www.sheffield.ac.uk/ris) and [Corporate Information & Computing Services (CICS)](http://www.sheffield.ac.uk/cics).
+I'm based in the [University Library](http://www.sheffield.ac.uk/library), but work closely with colleagues in [Research & Innovation Services (RIS)](http://www.sheffield.ac.uk/ris) and [Corporate Information & Computing Services (CICS)](http://www.sheffield.ac.uk/cics). We also have ongoing projects with a number of groups, including [Sheffield Research Software Engineering](http://rse.shef.ac.uk/) and [Insigneo](http://insigneo.org/).
 
 I also blog sporadically about using technology to support research. Find me elsewhere on the web:
 
