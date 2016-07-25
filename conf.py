@@ -137,10 +137,18 @@ NAVIGATION_LINKS = {
             ),
             "Talks"
         ),
-        # ("/blog/", "Blog"),
-        # ("/archive.html", "archive"),
-        # ("/categories/", "tags"),
-        # ("/rss.xml", "rss feed"),
+        ("/blog/", "Blog"),
+        ("/archive.html", "Archive"),
+        ("/categories/", "Categories"),
+        (
+            (
+                ("http://erambler.co.uk", "My blog: eRambler"),
+                ("https://twitter.com/jezcope", "Twitter: @jezcope"),
+                ("https://github.com/jezcope", "github: jezcope"),
+            ),
+            "Me elsewhere"
+        ),
+        ("/rss.xml", "Feed"),
     ),
 }
 
