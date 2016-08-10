@@ -22,6 +22,13 @@ I help people use technology to let them focus on what matters most. I am curren
 
 I'm based in the [University Library](http://www.sheffield.ac.uk/library), but work closely with colleagues in [Research & Innovation Services (RIS)](http://www.sheffield.ac.uk/ris) and [Corporate Information & Computing Services (CICS)](http://www.sheffield.ac.uk/cics). We also have ongoing projects with a number of groups, including [Sheffield Research Software Engineering](http://rse.shef.ac.uk/) and [Insigneo](http://insigneo.org/).
 
+My professional activities include:
+
+- Member of the [University Research Data Management Steering Group](http://www.sheffield.ac.uk/library/rdm/steeringgroup)
+- Co-opted member of the [University Research Ethics Committee](http://www.sheffield.ac.uk/ris/other/committees/ethicscommittee)
+- Contributor to DMPonline user group
+- Maintainer of the [Library Carpentry lesson on git](https://github.com/data-lessons/library-git)
+
 I also blog sporadically about using technology to support research. Find me elsewhere on the web:
 
 - [**Blog:** eRambler](http://erambler.co.uk/)
