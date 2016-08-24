@@ -22,14 +22,11 @@ I help people use technology to let them focus on what matters most. I am curren
 
 I'm based in the [University Library](http://www.sheffield.ac.uk/library), but work closely with colleagues in [Research & Innovation Services (RIS)](http://www.sheffield.ac.uk/ris) and [Corporate Information & Computing Services (CICS)](http://www.sheffield.ac.uk/cics). We also have ongoing projects with a number of groups, including [Sheffield Research Software Engineering](http://rse.shef.ac.uk/) and [Insigneo](http://insigneo.org/).
 
-My professional activities include:
+<div class="col-md-6">
 
-- Member of the [University Research Data Management Steering Group](http://www.sheffield.ac.uk/library/rdm/steeringgroup)
-- Co-opted member of the [University Research Ethics Committee](http://www.sheffield.ac.uk/ris/other/committees/ethicscommittee)
-- Contributor to DMPonline user group
-- Maintainer of the [Library Carpentry lesson on git](https://github.com/data-lessons/library-git)
+### Me elsewhere ###
 
-I also blog sporadically about using technology to support research. Find me elsewhere on the web:
+I blog sporadically about using technology to support research. Find me elsewhere on the web:
 
 - [**Blog:** eRambler](http://erambler.co.uk/)
 - [**Twitter:** \@jezcope](https://twitter.com/jezcope)
@@ -38,3 +35,15 @@ I also blog sporadically about using technology to support research. Find me els
 - [**LinkedIn**](https://linkedin.com/in/jezcope)
 - [**Diigo:** jezcope](http://diigo.com/user/jezcope)
 - [**Zotero:** jezcope](https://www.zotero.org/jezcope)
+</div>
+
+<div class="col-md-6">
+
+### Professional activities ###
+
+- Member of the [University Research Data Management Steering Group](http://www.sheffield.ac.uk/library/rdm/steeringgroup)
+- Co-opted member of the [University Research Ethics Committee](http://www.sheffield.ac.uk/ris/other/committees/ethicscommittee)
+- Member of the [DataCite Community Engagement Steering Group](https://www.datacite.org/steering.html)
+- Contributor to DMPonline user group
+- Maintainer of the [Library Carpentry lesson on git](https://github.com/data-lessons/library-git)
+</div>
