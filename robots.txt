@@ -1,0 +1,4 @@
+Sitemap: http://jcope.shef.ac.uk/sitemapindex.xml
+
+User-Agent: *
+Host: jcope.shef.ac.uk

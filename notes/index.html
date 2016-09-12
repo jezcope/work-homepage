@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# " lang="en">
+<head>
+<meta charset="utf-8">
+<base href="http://jcope.shef.ac.uk/notes/">
+<meta name="description" content="My work homepage">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Jez Cope</title>
+<link href="../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
+<meta content="#5670d4" name="theme-color">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml">
+<link rel="canonical" href="http://jcope.shef.ac.uk/notes/">
+<!--[if lt IE 9]><script src="../assets/js/html5.js"></script><![endif]-->
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
+
+<!-- Menubar -->
+
+<nav class="navbar navbar-default navbar-static-top"><div class="container">
+<!-- This keeps the margins nice -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="http://jcope.shef.ac.uk/">
+
+                <span id="blog-title">Jez Cope</span>
+            </a>
+        </div>
+<!-- /.navbar-header -->
+        <div class="collapse navbar-collapse" id="bs-navbar" aria-expanded="false">
+            <ul class="nav navbar-nav">
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Talks <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+<li>
+<a href="../talks/intro-to-rdm.html">Introduction to RDM</a>
+                    </li>
+<li>
+<a href="../talks/">All</a>
+            </li>
+</ul>
+</li>
+<li class="active">
+<a href=".">Notes <span class="sr-only">(active)</span></a>
+                </li>
+<li>
+<a href="../archive.html">Archive</a>
+                </li>
+<li>
+<a href="../categories/">Categories</a>
+            </li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Me elsewhere <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+<li>
+<a href="http://erambler.co.uk">My blog: eRambler</a>
+                    </li>
+<li>
+<a href="https://twitter.com/jezcope">Twitter: @jezcope</a>
+                    </li>
+<li>
+<a href="https://github.com/jezcope">github: jezcope</a>
+            </li>
+</ul>
+</li>
+<li>
+<a href="../rss.xml">Feed</a>
+
+                
+            </li>
+</ul>
+<ul class="nav navbar-nav navbar-right"></ul>
+</div>
+<!-- /.navbar-collapse -->
+    </div>
+<!-- /.container -->
+</nav><!-- End of Menubar --><div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        <div class="row">
+            
+            
+
+    
+<div class="postindex">
+    <article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="datacite-client-meeting-july-2016/" class="u-url">DataCite Client Meeting July 2016</a></h1>
+        <div class="metadata">
+            <p class="byline author vcard"><span class="byline-name fn">
+                Jez Cope
+            </span></p>
+            <p class="dateline"><a href="datacite-client-meeting-july-2016/" rel="bookmark"><time class="published dt-published" datetime="2016-07-25T11:24:30+01:00" title="2016-07-25 11:24">2016-07-25 11:24</time></a></p>
+        </div>
+    </header><div class="e-content entry-content">
+    <!-- 
+.. title: DataCite Client Meeting July 2016
+.. slug: datacite-client-meeting-july-2016
+.. date: 2016-07-25 11:24:30 UTC+01:00
+.. tags: DataCite,Metadata,Citation
+.. category: Meetings
+.. link: 
+.. description: 
+.. type: text
+-->
+<p>On Monday 25 July, I went down to London for a DataCite Client meeting hosted by the British Library. The main purpose of the event was to communicate updates from DataCite, but it was also an opportunity to discuss some key issues and feed back possible areas for further development, as well as the ever-present networking.</p>
+<p>The main update centred around the development of <a href="http://schema.labs.datacite.org/">version 4.0 of the DataCite metadata schema</a>, which is due to go into production in September. The main changes here are:</p>
+<ul>
+<li>
+<code>resourceTypeGeneral</code> is now <em>mandatory</em>
+</li>
+<li>
+<code>creatorName</code> has been expanded to optionally allow family name and given name to be identified</li>
+<li>
+<code>fundingReference</code> is a new optional property with subfields: <code>funderName</code>, <code>funderIdentifier</code>, <code>awardNumber</code>, <code>awardURI</code>, <code>awardTitle</code>
+</li>
+<li>
+<code>contributorType</code> "funder" now deprecated</li>
+<li>Polygon option available for geolocation</li>
+</ul>
+<p>Version 4.1 is already in planning, and is expected to include updates to align with <a href="https://www.force11.org/software-citation-principles">the FORCE11 Software Citation Principles</a> and recent working groups on dynamic citation.</p>
+<p>We were given a number of recommendations to maximise the usefulness of our metadata in line with recently-created tools:</p>
+<ul>
+<li>The ORCID auto-update tool requires the use of ORCIDs to identify contributors</li>
+<li>DataCite event data (which enables tracking of "events" such as citations) depends on proper use of <code>relatedIdentifier</code>
+</li>
+<li>Use of a URI to link to rights statements (instead of just including these as free text) enables machine analysis and discovery based on the rights</li>
+</ul>
+<p>Both the ORCID tool and the DataCite event data tracker are recent developments from the THOR (Technical &amp; Human infrastructure for Open Research) project, which has the goal of helping systems and services to link and actively exchange information, building on existing systems of identifiers for people, publications and datasets, along with less-well established identifiers for organisations, funders and grants. They have introduced a <a href="https://project-thor.readme.io/">Knowledge Hub</a> with lots of helpful documentation and a <a href="http://dashboard.project-thor.eu">dashboard of persistent identifier adoption</a>.</p>
+<p>Vimal Shah of King's College London and Rachel Proudfoot of the University of Leeds both gave brief presentations on developments in their own services. Both have relatively manual workflows for ingesting metadata and minting DOIs: King's have used out-of-the-box functionality in Microsoft SharePoint to provide a mediated deposit workflow for their data catalogue; Leeds use a simple standalone <a href="https://github.com/mpaluch/datacite-metadata-generator">DataCite metadata generator</a> to create XML and set up temporary landing pages to enable minting of DOIs for data which isn't itself available yet.</p>
+<p>Finally, there was a good workshop-style session focusing on licensing, in which we were invited to submit queries for discussion. My query, about how to represent non-open licenses/right statements in a machine-readable way produced some interesting discussion. Two resources flagged up were:</p>
+<ol style="list-style-type: decimal">
+<li>The RIOXX "All Rights Reserved" license URI: http://rioxx.net/licenses/all-rights-reserved/</li>
+<li>The W3C <a href="https://www.w3.org/TR/odrl/">Open Digital Rights Language (ODRL) spec</a>
+</li>
+</ol>
+<p>Overall it was a useful catchup.</p>
+    </div>
+    </article>
+</div>
+
+
+
+
+
+
+
+        </div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2016         <a href="mailto:j.s.cope@sheffield.ac.uk">Jez Cope</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+
+            <script src="../assets/js/all-nocdn.js"></script><script>$('a.image-reference:not(.islink) img:not(.islink)').parent().colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script><!-- fancy dates --><script>
+    moment.locale("en");
+    fancydates(0, "YYYY-MM-DD HH:mm");
+    </script><!-- end fancy dates -->
+</body>
+</html>

@@ -1,0 +1,104 @@
+/**
+ * University of Sheffield theme for reveal.js
+ *
+ * By Jez Cope
+ */
+
+
+// Default mixins and settings -----------------
+@import "../template/mixins";
+@import "../template/settings";
+// ---------------------------------------------
+
+
+// Include theme-specific fonts
+@import url(../../lib/font/source-sans-pro/source-sans-pro.css);
+
+// Override theme settings (see ../template/settings.scss)
+$backgroundColor: #0099ff;
+
+$mainColor: #FCFBE3;
+$headingColor: #fff;
+
+$mainFontSize: 38px;
+$mainFont: 'TUoS Blake', 'Source Sans Pro', Helvetica, sans-serif;
+$headingFont: 'TUoS Stephenson', 'Source Sans Pro', Helvetica, sans-serif;
+$headingTextShadow: none;
+$headingLetterSpacing: normal;
+$headingTextTransform: none;
+$headingFontWeight: 600;
+$linkColor: #fff;
+$linkColorHover: lighten( $linkColor, 15% );
+$selectionBackgroundColor: lighten( $linkColor, 25% );
+
+$heading1Size: 2.5em;
+$heading2Size: 1.6em;
+$heading3Size: 1.3em;
+$heading4Size: 1.0em;
+
+section.has-light-background {
+	&, h1, h2, h3, h4, h5, h6 {
+		color: #222;
+	}
+}
+
+
+// Theme template ------------------------------
+@import "../template/theme";
+// ---------------------------------------------
+
+.reveal {
+
+    background-image: url(../../images/tuoslogo_rgb_med.jpg);
+    background-repeat: no-repeat;
+    background-position: 0% 10%;
+    background-size: 20%;
+
+    hr {
+        border: 0;
+        height: 5px;
+        width: 100%;
+        background-image: linear-gradient(to right, $backgroundColor, $mainColor, $backgroundColor);
+    }
+
+    a {
+        color: $linkColor;
+        text-decoration: underline;
+
+        -webkit-transition: color .15s ease;
+           -moz-transition: color .15s ease;
+                transition: color .15s ease;
+
+        &:hover {
+            color: $linkColorHover;
+
+            text-shadow: none;
+            border: none;
+        }
+    }
+
+    .subtitle {
+        font-family: $headingFont;
+        /* font-weight: bold; */
+        font-style: italic;
+    }
+    .subhead {
+        font-family: $headingFont;
+        font-weight: bold;
+    }
+
+    dl {
+        dt {
+            margin-top: 1em;
+            font-family: $headingFont;
+        }
+        dd {
+            font-style: italic;
+        }
+    }
+
+    .print-pdf & {
+        background-image: none;
+    }
+
+}
