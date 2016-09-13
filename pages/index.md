@@ -43,7 +43,8 @@ I blog sporadically about using technology to support research. Find me elsewher
 
 - Member of the [University Research Data Management Steering Group](http://www.sheffield.ac.uk/library/rdm/steeringgroup)
 - Co-opted member of the [University Research Ethics Committee](http://www.sheffield.ac.uk/ris/other/committees/ethicscommittee)
+- Member of the [Jisc UK Research Data Shared Service](https://jisc.ac.uk/rd/projects/research-data-shared-service) Expert Advisory Group
 - Member of the [DataCite Community Engagement Steering Group](https://www.datacite.org/steering.html)
 - Contributor to DMPonline user group
-- Maintainer of the [Library Carpentry lesson on git](https://github.com/data-lessons/library-git)
+- Maintainer of the [Library Carpentry lesson about git](https://github.com/data-lessons/library-git)
 </div>
