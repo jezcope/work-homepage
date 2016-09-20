@@ -190,6 +190,7 @@ THEME = "readable"
 POSTS = (
     ("notes/*.rst", "notes", "post.tmpl"),
     ("notes/*.md", "notes", "post.tmpl"),
+    ("notes/*.org", "notes", "post.tmpl"),
     ("notes/*.txt", "notes", "post.tmpl"),
     ("notes/*.html", "notes", "post.tmpl"),
 )
@@ -970,7 +971,7 @@ MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite', 'extra']
 # Extra options to pass to the pandoc comand.
 # by default, it's empty, is a list of strings, for example
 # ['-F', 'pandoc-citeproc', '--bibliography=/Users/foo/references.bib']
-# PANDOC_OPTIONS = []
+PANDOC_OPTIONS = '--base-header-level=2'.split()
 
 # Social buttons. This is sample code for AddThis (which was the default for a
 # long time). Insert anything you want here, or even make it empty (which is
