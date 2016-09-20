@@ -1,0 +1,101 @@
+#+BEGIN_COMMENT
+.. title: Research Data Network meeting #2, September 2016
+.. slug: research-data-network-2
+.. date: 2016-09-20 11:28:18 UTC+01:00
+.. tags: Research Data Network,Jisc,Research data,Metadata
+.. category: Meetings
+.. link: 
+.. description: 
+.. type: text
+#+END_COMMENT
+
+#+BEGIN_QUOTE
+"We are now on the brink of an achievable aim: for all science literature to be online, for all of the data to be online and for the two to be interoperable" — /[[https://royalsociety.org/topics-policy/projects/science-public-enterprise/report/][Science as an Open Enterprise, The Royal Society (2012, p7)]]/
+#+END_QUOTE
+
+On Tuesday 6 September, I trekked from the frigid northern wasteland I call home to the frigid air-conditioned McCrum Lecture Theatre at Corpus Christi College, Cambridge, for the second of an ongoing series of Research Data Network events, organised by Jisc.
+
+* Keynote: why share data?
+
+Danni Kingsley from the University of Cambridge opened the event with a key note discussing the barriers still preventing researchers from engaging with the open research agenda.
+
+The biggest of these she described as a research rat race: researchers are under huge pressure to publish in high-impact journals, to the extent that very little else matters. This is in spite of the fact that [[http://www.sciencemag.org/news/2016/07/hate-journal-impact-factors-new-study-gives-you-one-more-reason]["trying to use a journal’s JIF to forecast the impact of any particular paper is close to guesswork"]] according to a recent study. There are also many common but questionable practices in managing publication, typified by [[http://blogs.discovermagazine.com/neuroskeptic/2010/11/24/the-9-circles-of-scientific-hell/#.V86RbdEtjVN][The 9 Circles of Scientific Hell - Neuroskeptic]].
+
+Possible solutions include:
+
+  - Pre-registration of trials, increasingly common in medicine
+  - Peer review of method only, with publication regardless of the outcome
+  - Increased transparency
+    - E.g. [[http://www.eurekalert.org/multimedia/pub/122624.php][STAR Methods]]
+  - Publication of observations
+    - E.g. [[https://www.sciencematters.io/][Matters - new-style science journal]]
+
+* Journal research data policies
+
+Jisc's David Kernohan gave an overview of recent work on investigating and standardising journal research data policies. Due to the high degree of subjectivity involved, the project's goals shifted from providing a [[https://www.jisc.ac.uk/rd/projects/journal-research-data-policy-registry-pilot][registry service]] (similar to the [[http://www.sherpa.ac.uk/projects/sherpa.html][SHERPA project]]) to developing templates and guidance for publishers.
+
+Of particular interest is the work that Springer Nature have done in this area. They are aiming so have all of their 3,000+ journals conform to one of these four levels:
+
+1. Data sharing & citation encouraged
+2. Data sharing & evidence of sharing encouraged
+3. Data sharing encouraged; statements of data availability required
+4. Data sharing, evidence of sharing and peer review of data required
+
+The number currently stands at around 350, with a target of 1,000 by the end of the year.
+
+This is positive, but sadly there are also journals actively working in the opposite direction, by deleting data access statements from manuscripts, for examples.
+
+There was also some discussion of the desire for machine-readable/actionable data access statements; apparently some publishers are working towards this.
+
+* Engaging with researchers
+
+Marta Teperek, Research Data Facility Manager at Cambridge, led a very useful session on engaging with researchers. She particularly advised avoiding the compliance message ("you *must* do /this/…") and instead focusing on benefits and support.
+
+At Cambridge, they have taken what they call a "democratic" approach:
+
+- letting researchers shape RDM services through surveys and focus groups;
+- being open to discussion and encouraging (and organising!) debates;
+- having an open discussion about the university-wide stance on Open Research.
+
+The reaction to this from researchers has been marked. There has been a behavioural change in sharing, with more submissions and fewer last-minute submissions, and data publication more embedded in the overall publication process. There have also been more informed discussions about barriers to data sharing.
+
+There was a useful audience discussion after this session, including some ideas about engaging with Arts & Humanities scholars. Cambridge are dealing with this by completely rebranding the "data" discussion and instead talking about "information management", "computer backup" and similar terms. An audience member suggested also linking in with Special Collections, who are often the ones called on to archive material from Arts & Humanities research.
+
+/University of Cambridge Office of Scholarly Communication also publish regularly on their [[https://unlockingresearch.blog.lib.cam.ac.uk/][scholarly comms blog, Unlocking Research]]./
+
+* Jisc Research Data Shared Service
+
+A couple of talks focused on the Jisc [[https://www.jisc.ac.uk/rd/projects/research-data-shared-service][Research data shared service]], the aim of which is to ensure that researchers don't have to think more than necessary about RDM while improving policy compliance, finding efficiencies through scale and addressing current gaps in the RDM market.
+
+A number of suppliers have already been named as part of a large framework to offer various parts of a modular RDM service, including Figshare, Sero Consulting, Arkivum, Archivematica and Preservica. A lot of the work of the project itself will be around integrating these various areas and providing for easier interoperability for institutions.
+
+* Preserving research data with Archivematica at York
+
+Jenny Mitchum from the University of York gave an update on their project to use [[https://www.archivematica.org/en/][Archivematica]] to preserve data. The have nearly completed a proof-of-concept (with University of Hull) to pull metadata from Pure and content from Box to create a Submission Information Package for ingest by Archivematica.
+
+They have done some particularly interesting work on file formats: a recent survey using the National Archive's DROID format identification tool found 107 file extensions not identified and over 600 files with no extension at all. In particular there were a lot of mutually incompatible ~.dat~ files from a wide array of different software, because ~.dat~ is commonly chosen as a filename extension for custom data formats.
+
+This culminated in the project sponsoring development of 8 new file format signatures in PRONOM (the database which DROID uses for identification) and Jenny has also [[http://digital-archiving.blogspot.co.uk/2016/08/my-first-file-format-signature.html][developed her own file format signature]] and submitted it.
+
+* Standards in research data metadata
+
+Dom Fripp from Jisc and Nicky Ferguson from Clax gave an overview of some of the metadata work done as part of several current Jisc projects, including the shared service and discovery service. The approach they are taking is to build on existing standards, improve the /practice/ of metadata management and provide good documentation for everything.
+
+They are trying to take a pragmatic, controlled approach to development too: they were clearly alarmed by the >1,500 lines of XML metadata needed for a single Archival Information Package in Archivematica.
+
+* Making a national business case for RDM
+
+Finally, Catherine Grout (Jisc) and Tom Parsons (Research Consulting) gave an overview of ongoing work to build a high-level business case to influence government and institutional policy, including the economic and societal benefits as well as the benefits to research as a whole, research institutions and researchers themselves. For example: an $1T has been contributed to the US economy from open research data arising from the human genome project, and 90% of /all existing data/ has been created in the last /2 years/!
+
+* Recruiting RDM champions
+
+In addition to these scheduled sessions, there was also an informal discussion over lunch about how different institutions are recruiting and using research data champions. Unfortunately, I was sitting on the wrong table to join in with this, but after overwhelming interest there has now been a [[https://research-data-network.readme.io/v1.03/docs/engaging-researchers][community page on Engaging Researchers]] and a [[https://gitter.im/rdm-discussions/champions][chat channel set up on gitter]] to continue the discussion.
+
+* Key takeaways
+
+- Think about how we can do better at involving researchers in defining our services and encouraging debate
+- Try a survey of data types in use at the university using DROID/PRONOM to identify formats
+- Talk to Arts & Humanities scholars about "information management" rather than "data management"
+- Make closer links with Special Collections to understand how donations are made and how they fit in
+
+The full agenda with links to presentations and collaborative notes is available on the [[https://research-data-network.readme.io/docs/2nd-research-data-network-meeting-september-2016-location-tbc][Research Data Network community site]].

@@ -2,7 +2,7 @@
 .. title: Overleaf Conference, July 2016
 .. slug: overleaf
 .. date: 2016-07-27 15:15:54 UTC+01:00
-.. tags: Overleaf,Scholarly Communication,Collaboration,Publishing,draft
+.. tags: Overleaf,Scholarly Communication,Collaboration,Publishing
 .. category: Meetings
 .. link: 
 .. description: 

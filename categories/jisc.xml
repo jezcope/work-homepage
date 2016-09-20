@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jez Cope</title><link>http://jcope.shef.ac.uk/</link><description>My work homepage</description><atom:link type="application/rss+xml" rel="self" href="http://jcope.shef.ac.uk/rss.xml"></atom:link><language>en</language><lastBuildDate>Tue, 20 Sep 2016 10:46:22 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Research Data Network meeting #2, September 2016</title><link>http://jcope.shef.ac.uk/notes/research-data-network-2/</link><dc:creator>Jez Cope</dc:creator><description>&lt;blockquote&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jez Cope (Jisc)</title><link>http://jcope.shef.ac.uk/</link><description></description><atom:link type="application/rss+xml" rel="self" href="http://jcope.shef.ac.uk/categories/jisc.xml"></atom:link><language>en</language><lastBuildDate>Tue, 20 Sep 2016 10:46:22 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Research Data Network meeting #2, September 2016</title><link>http://jcope.shef.ac.uk/notes/research-data-network-2/</link><dc:creator>Jez Cope</dc:creator><description>&lt;blockquote&gt;
 &lt;p&gt;"We are now on the brink of an achievable aim: for all science literature to be online, for all of the data to be online and for the two to be interoperable" — &lt;em&gt;&lt;a href="https://royalsociety.org/topics-policy/projects/science-public-enterprise/report/"&gt;Science as an Open Enterprise, The Royal Society (2012, p7)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;On Tuesday 6 September, I trekked from the frigid northern wasteland I call home to the frigid air-conditioned McCrum Lecture Theatre at Corpus Christi College, Cambridge, for the second of an ongoing series of Research Data Network events, organised by Jisc.&lt;/p&gt;
@@ -63,53 +63,4 @@
 &lt;li&gt;Talk to Arts &amp;amp; Humanities scholars about "information management" rather than "data management"&lt;/li&gt;
 &lt;li&gt;Make closer links with Special Collections to understand how donations are made and how they fit in&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;The full agenda with links to presentations and collaborative notes is available on the &lt;a href="https://research-data-network.readme.io/docs/2nd-research-data-network-meeting-september-2016-location-tbc"&gt;Research Data Network community site&lt;/a&gt;.&lt;/p&gt;</description><category>Jisc</category><category>Metadata</category><category>Research data</category><category>Research Data Network</category><guid>http://jcope.shef.ac.uk/notes/research-data-network-2/</guid><pubDate>Tue, 20 Sep 2016 10:28:18 GMT</pubDate></item><item><title>Overleaf Conference, July 2016</title><link>http://jcope.shef.ac.uk/notes/overleaf/</link><dc:creator>Jez Cope</dc:creator><description>&lt;!--
-.. title: Overleaf Conference, July 2016
-.. slug: overleaf
-.. date: 2016-07-27 15:15:54 UTC+01:00
-.. tags: Overleaf,Scholarly Communication,Collaboration,Publishing
-.. category: Meetings
-.. link: 
-.. description: 
-.. type: text
---&gt;
-&lt;p&gt;On Tuesday 12 July 2016 I went to London to learn more about a product called &lt;a href="https://overleaf.com"&gt;Overleaf&lt;/a&gt;. Being arranged at the last minute at quite a busy time of year for many people, it was quite a select gathering, which lent itself well to some interesting conversations.&lt;/p&gt;
-&lt;p&gt;Overleaf is a collaborative online writing tool that could be described as the offspring of a beautiful union between &lt;a href="https://docs.google.com/"&gt;Google Docs&lt;/a&gt; and &lt;a href="http://latex-project.org/"&gt;LaTeX&lt;/a&gt;. It gives the same live simultaneous editing experience of Docs, but produces beautifully typeset PDF documents.&lt;/p&gt;
-&lt;p&gt;In practice, that means that authors working on a report or paper can collaborate easily without getting lost in a flurry of emails and Microsoft Word tracked changes. Instead there's a single online version of the document that all authors can edit simultaneously. If you've ever tried it with Google Docs you'll know that editing a document at the same time as several other people can be slightly unnerving, but very effective once you get used to it.&lt;/p&gt;
-&lt;p&gt;Unlike Google Docs though, Overleaf is based on a typesetting engine called LaTeX which turns simple text into fully typeset documents. It has excellent support for mathematical notation and reference management, so it's been well used for decades in areas like mathematics, physics and computer science and is increasingly computational scientists and engineers in areas such as biology and chemistry.&lt;/p&gt;
-&lt;p&gt;The really interesting part is Overleaf's integration with publishers' platforms. You can submit your manuscript directly to one of their publisher partners with just a button click, and the list of partners is constantly growing. A lot of journals have LaTeX templates that give an approximation of how your manuscript will appear when published, and it's now possible to start a new manuscript for these journals in Overleaf with a single click too.&lt;/p&gt;
-&lt;p&gt;For us in Research Services in the library, that means there's a well-defined author's accepted manuscript that can potentially be deposited into our institutional repository with just a few button clicks, with all the metadata already available. That could make both our lives and our researchers' much easier. The Overleaf developers seemed really interested in this possibility, so we could see a "deposit accepted manuscript" button appearing soon.&lt;/p&gt;
-&lt;p&gt;That's the theory, anyway: I haven't yet used it enough to get an appreciation of whether or not it works in practice, but it sounds like a great idea and I'll be keeping an eye on it as it develops.&lt;/p&gt;</description><category>Collaboration</category><category>Overleaf</category><category>Publishing</category><category>Scholarly Communication</category><guid>http://jcope.shef.ac.uk/notes/overleaf/</guid><pubDate>Wed, 27 Jul 2016 14:15:54 GMT</pubDate></item><item><title>DataCite Client Meeting July 2016</title><link>http://jcope.shef.ac.uk/notes/datacite-client-meeting-july-2016/</link><dc:creator>Jez Cope</dc:creator><description>&lt;!-- 
-.. title: DataCite Client Meeting July 2016
-.. slug: datacite-client-meeting-july-2016
-.. date: 2016-07-25 11:24:30 UTC+01:00
-.. tags: DataCite,Metadata,Citation
-.. category: Meetings
-.. link: 
-.. description: 
-.. type: text
---&gt;
-&lt;p&gt;On Monday 25 July, I went down to London for a DataCite Client meeting hosted by the British Library. The main purpose of the event was to communicate updates from DataCite, but it was also an opportunity to discuss some key issues and feed back possible areas for further development, as well as the ever-present networking.&lt;/p&gt;
-&lt;p&gt;The main update centred around the development of &lt;a href="http://schema.labs.datacite.org/"&gt;version 4.0 of the DataCite metadata schema&lt;/a&gt;, which is due to go into production in September. The main changes here are:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;resourceTypeGeneral&lt;/code&gt; is now &lt;em&gt;mandatory&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;creatorName&lt;/code&gt; has been expanded to optionally allow family name and given name to be identified&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;fundingReference&lt;/code&gt; is a new optional property with subfields: &lt;code&gt;funderName&lt;/code&gt;, &lt;code&gt;funderIdentifier&lt;/code&gt;, &lt;code&gt;awardNumber&lt;/code&gt;, &lt;code&gt;awardURI&lt;/code&gt;, &lt;code&gt;awardTitle&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;contributorType&lt;/code&gt; "funder" now deprecated&lt;/li&gt;
-&lt;li&gt;Polygon option available for geolocation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Version 4.1 is already in planning, and is expected to include updates to align with &lt;a href="https://www.force11.org/software-citation-principles"&gt;the FORCE11 Software Citation Principles&lt;/a&gt; and recent working groups on dynamic citation.&lt;/p&gt;
-&lt;p&gt;We were given a number of recommendations to maximise the usefulness of our metadata in line with recently-created tools:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The ORCID auto-update tool requires the use of ORCIDs to identify contributors&lt;/li&gt;
-&lt;li&gt;DataCite event data (which enables tracking of "events" such as citations) depends on proper use of &lt;code&gt;relatedIdentifier&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Use of a URI to link to rights statements (instead of just including these as free text) enables machine analysis and discovery based on the rights&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Both the ORCID tool and the DataCite event data tracker are recent developments from the THOR (Technical &amp;amp; Human infrastructure for Open Research) project, which has the goal of helping systems and services to link and actively exchange information, building on existing systems of identifiers for people, publications and datasets, along with less-well established identifiers for organisations, funders and grants. They have introduced a &lt;a href="https://project-thor.readme.io/"&gt;Knowledge Hub&lt;/a&gt; with lots of helpful documentation and a &lt;a href="http://dashboard.project-thor.eu"&gt;dashboard of persistent identifier adoption&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Vimal Shah of King's College London and Rachel Proudfoot of the University of Leeds both gave brief presentations on developments in their own services. Both have relatively manual workflows for ingesting metadata and minting DOIs: King's have used out-of-the-box functionality in Microsoft SharePoint to provide a mediated deposit workflow for their data catalogue; Leeds use a simple standalone &lt;a href="https://github.com/mpaluch/datacite-metadata-generator"&gt;DataCite metadata generator&lt;/a&gt; to create XML and set up temporary landing pages to enable minting of DOIs for data which isn't itself available yet.&lt;/p&gt;
-&lt;p&gt;Finally, there was a good workshop-style session focusing on licensing, in which we were invited to submit queries for discussion. My query, about how to represent non-open licenses/right statements in a machine-readable way produced some interesting discussion. Two resources flagged up were:&lt;/p&gt;
-&lt;ol style="list-style-type: decimal"&gt;
-&lt;li&gt;The RIOXX "All Rights Reserved" license URI: http://rioxx.net/licenses/all-rights-reserved/&lt;/li&gt;
-&lt;li&gt;The W3C &lt;a href="https://www.w3.org/TR/odrl/"&gt;Open Digital Rights Language (ODRL) spec&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Overall it was a useful catchup.&lt;/p&gt;</description><category>Citation</category><category>DataCite</category><category>Metadata</category><guid>http://jcope.shef.ac.uk/notes/datacite-client-meeting-july-2016/</guid><pubDate>Mon, 25 Jul 2016 10:24:30 GMT</pubDate></item></channel></rss>
+&lt;p&gt;The full agenda with links to presentations and collaborative notes is available on the &lt;a href="https://research-data-network.readme.io/docs/2nd-research-data-network-meeting-september-2016-location-tbc"&gt;Research Data Network community site&lt;/a&gt;.&lt;/p&gt;</description><category>Jisc</category><category>Metadata</category><category>Research data</category><category>Research Data Network</category><guid>http://jcope.shef.ac.uk/notes/research-data-network-2/</guid><pubDate>Tue, 20 Sep 2016 10:28:18 GMT</pubDate></item></channel></rss>

@@ -1,5 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Jez Cope (Meetings)</title><link>http://jcope.shef.ac.uk/</link><description></description><atom:link href="http://jcope.shef.ac.uk/categories/cat_meetings.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Mon, 12 Sep 2016 16:23:49 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>DataCite Client Meeting July 2016</title><link>http://jcope.shef.ac.uk/notes/datacite-client-meeting-july-2016/</link><dc:creator>Jez Cope</dc:creator><description>&lt;!-- 
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jez Cope (Meetings)</title><link>http://jcope.shef.ac.uk/</link><description></description><atom:link type="application/rss+xml" rel="self" href="http://jcope.shef.ac.uk/categories/cat_meetings.xml"></atom:link><language>en</language><lastBuildDate>Tue, 20 Sep 2016 10:46:22 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Research Data Network meeting #2, September 2016</title><link>http://jcope.shef.ac.uk/notes/research-data-network-2/</link><dc:creator>Jez Cope</dc:creator><description>&lt;blockquote&gt;
+&lt;p&gt;"We are now on the brink of an achievable aim: for all science literature to be online, for all of the data to be online and for the two to be interoperable" — &lt;em&gt;&lt;a href="https://royalsociety.org/topics-policy/projects/science-public-enterprise/report/"&gt;Science as an Open Enterprise, The Royal Society (2012, p7)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;On Tuesday 6 September, I trekked from the frigid northern wasteland I call home to the frigid air-conditioned McCrum Lecture Theatre at Corpus Christi College, Cambridge, for the second of an ongoing series of Research Data Network events, organised by Jisc.&lt;/p&gt;
+&lt;h2 id="keynote-why-share-data"&gt;Keynote: why share data?&lt;/h2&gt;
+&lt;p&gt;Danni Kingsley from the University of Cambridge opened the event with a key note discussing the barriers still preventing researchers from engaging with the open research agenda.&lt;/p&gt;
+&lt;p&gt;The biggest of these she described as a research rat race: researchers are under huge pressure to publish in high-impact journals, to the extent that very little else matters. This is in spite of the fact that &lt;a href="http://www.sciencemag.org/news/2016/07/hate-journal-impact-factors-new-study-gives-you-one-more-reason"&gt;"trying to use a journal’s JIF to forecast the impact of any particular paper is close to guesswork"&lt;/a&gt; according to a recent study. There are also many common but questionable practices in managing publication, typified by &lt;a href="http://blogs.discovermagazine.com/neuroskeptic/2010/11/24/the-9-circles-of-scientific-hell/#.V86RbdEtjVN"&gt;The 9 Circles of Scientific Hell - Neuroskeptic&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Possible solutions include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pre-registration of trials, increasingly common in medicine&lt;/li&gt;
+&lt;li&gt;Peer review of method only, with publication regardless of the outcome&lt;/li&gt;
+&lt;li&gt;Increased transparency
+&lt;ul&gt;
+&lt;li&gt;E.g. &lt;a href="http://www.eurekalert.org/multimedia/pub/122624.php"&gt;STAR Methods&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Publication of observations
+&lt;ul&gt;
+&lt;li&gt;E.g. &lt;a href="https://www.sciencematters.io/"&gt;Matters - new-style science journal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="journal-research-data-policies"&gt;Journal research data policies&lt;/h2&gt;
+&lt;p&gt;Jisc's David Kernohan gave an overview of recent work on investigating and standardising journal research data policies. Due to the high degree of subjectivity involved, the project's goals shifted from providing a &lt;a href="https://www.jisc.ac.uk/rd/projects/journal-research-data-policy-registry-pilot"&gt;registry service&lt;/a&gt; (similar to the &lt;a href="http://www.sherpa.ac.uk/projects/sherpa.html"&gt;SHERPA project&lt;/a&gt;) to developing templates and guidance for publishers.&lt;/p&gt;
+&lt;p&gt;Of particular interest is the work that Springer Nature have done in this area. They are aiming so have all of their 3,000+ journals conform to one of these four levels:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Data sharing &amp;amp; citation encouraged&lt;/li&gt;
+&lt;li&gt;Data sharing &amp;amp; evidence of sharing encouraged&lt;/li&gt;
+&lt;li&gt;Data sharing encouraged; statements of data availability required&lt;/li&gt;
+&lt;li&gt;Data sharing, evidence of sharing and peer review of data required&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The number currently stands at around 350, with a target of 1,000 by the end of the year.&lt;/p&gt;
+&lt;p&gt;This is positive, but sadly there are also journals actively working in the opposite direction, by deleting data access statements from manuscripts, for examples.&lt;/p&gt;
+&lt;p&gt;There was also some discussion of the desire for machine-readable/actionable data access statements; apparently some publishers are working towards this.&lt;/p&gt;
+&lt;h2 id="engaging-with-researchers"&gt;Engaging with researchers&lt;/h2&gt;
+&lt;p&gt;Marta Teperek, Research Data Facility Manager at Cambridge, led a very useful session on engaging with researchers. She particularly advised avoiding the compliance message ("you &lt;strong&gt;must&lt;/strong&gt; do /this/…") and instead focusing on benefits and support.&lt;/p&gt;
+&lt;p&gt;At Cambridge, they have taken what they call a "democratic" approach:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;letting researchers shape RDM services through surveys and focus groups;&lt;/li&gt;
+&lt;li&gt;being open to discussion and encouraging (and organising!) debates;&lt;/li&gt;
+&lt;li&gt;having an open discussion about the university-wide stance on Open Research.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The reaction to this from researchers has been marked. There has been a behavioural change in sharing, with more submissions and fewer last-minute submissions, and data publication more embedded in the overall publication process. There have also been more informed discussions about barriers to data sharing.&lt;/p&gt;
+&lt;p&gt;There was a useful audience discussion after this session, including some ideas about engaging with Arts &amp;amp; Humanities scholars. Cambridge are dealing with this by completely rebranding the "data" discussion and instead talking about "information management", "computer backup" and similar terms. An audience member suggested also linking in with Special Collections, who are often the ones called on to archive material from Arts &amp;amp; Humanities research.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;University of Cambridge Office of Scholarly Communication also publish regularly on their &lt;a href="https://unlockingresearch.blog.lib.cam.ac.uk/"&gt;scholarly comms blog, Unlocking Research&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id="jisc-research-data-shared-service"&gt;Jisc Research Data Shared Service&lt;/h2&gt;
+&lt;p&gt;A couple of talks focused on the Jisc &lt;a href="https://www.jisc.ac.uk/rd/projects/research-data-shared-service"&gt;Research data shared service&lt;/a&gt;, the aim of which is to ensure that researchers don't have to think more than necessary about RDM while improving policy compliance, finding efficiencies through scale and addressing current gaps in the RDM market.&lt;/p&gt;
+&lt;p&gt;A number of suppliers have already been named as part of a large framework to offer various parts of a modular RDM service, including Figshare, Sero Consulting, Arkivum, Archivematica and Preservica. A lot of the work of the project itself will be around integrating these various areas and providing for easier interoperability for institutions.&lt;/p&gt;
+&lt;h2 id="preserving-research-data-with-archivematica-at-york"&gt;Preserving research data with Archivematica at York&lt;/h2&gt;
+&lt;p&gt;Jenny Mitchum from the University of York gave an update on their project to use &lt;a href="https://www.archivematica.org/en/"&gt;Archivematica&lt;/a&gt; to preserve data. The have nearly completed a proof-of-concept (with University of Hull) to pull metadata from Pure and content from Box to create a Submission Information Package for ingest by Archivematica.&lt;/p&gt;
+&lt;p&gt;They have done some particularly interesting work on file formats: a recent survey using the National Archive's DROID format identification tool found 107 file extensions not identified and over 600 files with no extension at all. In particular there were a lot of mutually incompatible &lt;code&gt;.dat&lt;/code&gt; files from a wide array of different software, because &lt;code&gt;.dat&lt;/code&gt; is commonly chosen as a filename extension for custom data formats.&lt;/p&gt;
+&lt;p&gt;This culminated in the project sponsoring development of 8 new file format signatures in PRONOM (the database which DROID uses for identification) and Jenny has also &lt;a href="http://digital-archiving.blogspot.co.uk/2016/08/my-first-file-format-signature.html"&gt;developed her own file format signature&lt;/a&gt; and submitted it.&lt;/p&gt;
+&lt;h2 id="standards-in-research-data-metadata"&gt;Standards in research data metadata&lt;/h2&gt;
+&lt;p&gt;Dom Fripp from Jisc and Nicky Ferguson from Clax gave an overview of some of the metadata work done as part of several current Jisc projects, including the shared service and discovery service. The approach they are taking is to build on existing standards, improve the &lt;em&gt;practice&lt;/em&gt; of metadata management and provide good documentation for everything.&lt;/p&gt;
+&lt;p&gt;They are trying to take a pragmatic, controlled approach to development too: they were clearly alarmed by the &amp;gt;1,500 lines of XML metadata needed for a single Archival Information Package in Archivematica.&lt;/p&gt;
+&lt;h2 id="making-a-national-business-case-for-rdm"&gt;Making a national business case for RDM&lt;/h2&gt;
+&lt;p&gt;Finally, Catherine Grout (Jisc) and Tom Parsons (Research Consulting) gave an overview of ongoing work to build a high-level business case to influence government and institutional policy, including the economic and societal benefits as well as the benefits to research as a whole, research institutions and researchers themselves. For example: an $1T has been contributed to the US economy from open research data arising from the human genome project, and 90% of &lt;em&gt;all existing data&lt;/em&gt; has been created in the last &lt;em&gt;2 years&lt;/em&gt;!&lt;/p&gt;
+&lt;h2 id="recruiting-rdm-champions"&gt;Recruiting RDM champions&lt;/h2&gt;
+&lt;p&gt;In addition to these scheduled sessions, there was also an informal discussion over lunch about how different institutions are recruiting and using research data champions. Unfortunately, I was sitting on the wrong table to join in with this, but after overwhelming interest there has now been a &lt;a href="https://research-data-network.readme.io/v1.03/docs/engaging-researchers"&gt;community page on Engaging Researchers&lt;/a&gt; and a &lt;a href="https://gitter.im/rdm-discussions/champions"&gt;chat channel set up on gitter&lt;/a&gt; to continue the discussion.&lt;/p&gt;
+&lt;h2 id="key-takeaways"&gt;Key takeaways&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Think about how we can do better at involving researchers in defining our services and encouraging debate&lt;/li&gt;
+&lt;li&gt;Try a survey of data types in use at the university using DROID/PRONOM to identify formats&lt;/li&gt;
+&lt;li&gt;Talk to Arts &amp;amp; Humanities scholars about "information management" rather than "data management"&lt;/li&gt;
+&lt;li&gt;Make closer links with Special Collections to understand how donations are made and how they fit in&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The full agenda with links to presentations and collaborative notes is available on the &lt;a href="https://research-data-network.readme.io/docs/2nd-research-data-network-meeting-september-2016-location-tbc"&gt;Research Data Network community site&lt;/a&gt;.&lt;/p&gt;</description><category>Jisc</category><category>Metadata</category><category>Research data</category><category>Research Data Network</category><guid>http://jcope.shef.ac.uk/notes/research-data-network-2/</guid><pubDate>Tue, 20 Sep 2016 10:28:18 GMT</pubDate></item><item><title>Overleaf Conference, July 2016</title><link>http://jcope.shef.ac.uk/notes/overleaf/</link><dc:creator>Jez Cope</dc:creator><description>&lt;!--
+.. title: Overleaf Conference, July 2016
+.. slug: overleaf
+.. date: 2016-07-27 15:15:54 UTC+01:00
+.. tags: Overleaf,Scholarly Communication,Collaboration,Publishing
+.. category: Meetings
+.. link: 
+.. description: 
+.. type: text
+--&gt;
+&lt;p&gt;On Tuesday 12 July 2016 I went to London to learn more about a product called &lt;a href="https://overleaf.com"&gt;Overleaf&lt;/a&gt;. Being arranged at the last minute at quite a busy time of year for many people, it was quite a select gathering, which lent itself well to some interesting conversations.&lt;/p&gt;
+&lt;p&gt;Overleaf is a collaborative online writing tool that could be described as the offspring of a beautiful union between &lt;a href="https://docs.google.com/"&gt;Google Docs&lt;/a&gt; and &lt;a href="http://latex-project.org/"&gt;LaTeX&lt;/a&gt;. It gives the same live simultaneous editing experience of Docs, but produces beautifully typeset PDF documents.&lt;/p&gt;
+&lt;p&gt;In practice, that means that authors working on a report or paper can collaborate easily without getting lost in a flurry of emails and Microsoft Word tracked changes. Instead there's a single online version of the document that all authors can edit simultaneously. If you've ever tried it with Google Docs you'll know that editing a document at the same time as several other people can be slightly unnerving, but very effective once you get used to it.&lt;/p&gt;
+&lt;p&gt;Unlike Google Docs though, Overleaf is based on a typesetting engine called LaTeX which turns simple text into fully typeset documents. It has excellent support for mathematical notation and reference management, so it's been well used for decades in areas like mathematics, physics and computer science and is increasingly computational scientists and engineers in areas such as biology and chemistry.&lt;/p&gt;
+&lt;p&gt;The really interesting part is Overleaf's integration with publishers' platforms. You can submit your manuscript directly to one of their publisher partners with just a button click, and the list of partners is constantly growing. A lot of journals have LaTeX templates that give an approximation of how your manuscript will appear when published, and it's now possible to start a new manuscript for these journals in Overleaf with a single click too.&lt;/p&gt;
+&lt;p&gt;For us in Research Services in the library, that means there's a well-defined author's accepted manuscript that can potentially be deposited into our institutional repository with just a few button clicks, with all the metadata already available. That could make both our lives and our researchers' much easier. The Overleaf developers seemed really interested in this possibility, so we could see a "deposit accepted manuscript" button appearing soon.&lt;/p&gt;
+&lt;p&gt;That's the theory, anyway: I haven't yet used it enough to get an appreciation of whether or not it works in practice, but it sounds like a great idea and I'll be keeping an eye on it as it develops.&lt;/p&gt;</description><category>Collaboration</category><category>Overleaf</category><category>Publishing</category><category>Scholarly Communication</category><guid>http://jcope.shef.ac.uk/notes/overleaf/</guid><pubDate>Wed, 27 Jul 2016 14:15:54 GMT</pubDate></item><item><title>DataCite Client Meeting July 2016</title><link>http://jcope.shef.ac.uk/notes/datacite-client-meeting-july-2016/</link><dc:creator>Jez Cope</dc:creator><description>&lt;!-- 
 .. title: DataCite Client Meeting July 2016
 .. slug: datacite-client-meeting-july-2016
 .. date: 2016-07-25 11:24:30 UTC+01:00
