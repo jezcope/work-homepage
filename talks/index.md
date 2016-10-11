@@ -20,3 +20,4 @@ Other slides that I've used in the past:
 - 2016
     - [Opening up Research data](scharr-open-data.html), *"ScHARR: Research in the 21st Century", Tuesday 24 May 2016*
     - [Figshare at the University of Sheffield](sheffield-uksg-figshare.html), *UKSG Annual Meeting, Bournemouth, Monday 11 – Wednesday 13 April 2016*
+    - [Research Support Unit update](rdm-update-oct-2016.html), *RSU training hour, October 2016*

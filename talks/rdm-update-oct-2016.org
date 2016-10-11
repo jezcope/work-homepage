@@ -1,0 +1,121 @@
+#+TITLE: RDM update
+#+AUTHOR: Jez Cope
+#+DATE: RSU team meeting October 2016
+
+
+* Basics
+
+What we expect of researchers
+
+1. Write a data management plan
+2. Look after their data during collection, processing & analysis
+3. Archive and share data with others
+
+** Write a data management plan
+
+Required for all funded projects (TUoS policy) \\
+Also for /all/ RCUK funding and most charities
+
+Starting point: [[http://dmponline.dcc.ac.uk/][DMPonline]]
+
+** Look after data
+
+- /Organisation and documentation/
+  - File & folder naming
+  - Metadata
+- Information security: backup & confidentiality
+- Quality assurance
+- /Rights/
+
+** Archive & share data
+
+- In order of preference:
+   1. Discipline-specific repository
+   2. ORDA
+   3. Archive offline + metadata-only in ORDA
+- Data citations/Data access statements
+
+* Our service offer
+
+** What we do
+
+Develop and support ORDA (Online Research Data)
+
+Review and feed back on data management plans
+
+Provide training & guidance
+
+Facilitate RDM research groups, institutes, departments and faculties \\
+/Encourage local-level processes & services where sensible/
+
+Monitoring and raising awareness of compliance needs
+
+** Who else helps
+
+- CICS (plus Faculty & Dept IT staff)
+  - Active data storage (*10TB free per research group*)
+  - Information Security & Data Protection
+- RIS (plus Faculty & Dept support staff)
+  - Data management planning
+  - Costing
+- Research Software Engineering
+  - Skills for reproducible research
+
+** Current projects
+
+University-wide ORDA rollout
+
+EPSRC compliance stock-take
+
+Integrating local RDM systems: Insigneo
+
+Faculty-level guidance: DMPonline in MDH
+
+RDM 101 online module with White Rose libraries
+
+Digital Preservation: Rosetta ↔ figshare integration
+
+** The future?
+
+Harvest metadata from external repositories
+
+Identify and fill gaps in infrastructure
+
+Data special collections
+
+Software & Data Carpentry training
+
+Adopt and scale local data management systems
+
+Visualisation
+
+/Your ideas here…/
+
+* Settings :noexport:
+
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil creator:nil d:(not "LOGBOOK") date:t e:t
+#+OPTIONS: email:nil f:t inline:t num:nil p:nil pri:nil prop:nil
+#+OPTIONS: stat:t tags:t tasks:t tex:t timestamp:nil title:t toc:nil
+#+OPTIONS: todo:t |:t
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 24.5.1 (Org mode 8.3.5)
+
+** Reveal.js
+
+#+OPTIONS: reveal_center:t reveal_control:t reveal_height:-1
+#+OPTIONS: reveal_history:nil reveal_keyboard:t reveal_overview:t
+#+OPTIONS: reveal_progress:t reveal_rolling_links:nil
+#+OPTIONS: reveal_single_file:nil reveal_slide_number:"c"
+#+OPTIONS: reveal_title_slide:auto reveal_width:-1
+#+REVEAL_MARGIN: -1
+#+REVEAL_MIN_SCALE: -1
+#+REVEAL_MAX_SCALE: -1
+#+REVEAL_ROOT: ./reveal.js
+#+REVEAL_TRANS: convex
+#+REVEAL_SPEED: default
+#+REVEAL_THEME: sky
+#+REVEAL_MATHJAX_URL: https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+#+REVEAL_HIGHLIGHT_CSS: %r/lib/css/zenburn.css
