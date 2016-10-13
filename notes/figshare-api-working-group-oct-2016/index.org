@@ -1,0 +1,16 @@
+#+BEGIN_COMMENT
+.. title: Figshare API working group - first meeting
+.. slug: figshare-api-working-group-oct-2016
+.. date: 2016-10-13 18:12:06 UTC+01:00
+.. tags: Figshare,API
+.. category: Meetings
+.. link: 
+.. description: 
+.. type: text
+#+END_COMMENT
+
+On 11 October, Marcelo, Angus and I attended the first (online) meeting of the figshare API working group, joined by representatives from Loughborough, Stockholm and St Edwards Universities. This meeting was quite brief, involving an introduction of the purpose of the group (to exchange ideas about using the API and contribute to its direction) and a short demo of some of the features.
+
+For those unfamiliar, an API (Application Programmer Interface) is the part of a system that lets other systems talk to it. Just like the UI (User Interface) is designed for people and is hard for machines to use efficiently, an API is designed for machines and is difficult for humans to use directly in an effective way.
+
+The figshare API provides all the same capabilities that the main web interface does, and in some cases there are things that can be done through the API that are difficult or impossible through the UI, such as batch adding/modifying items. In fact, the collections feature was available through the API for quite a while before the UI was completed. There is also a separate stats API that provides detailed usage data for items, and an OAI-PMH endpoint to allow harvesting of metadata into other systems.
