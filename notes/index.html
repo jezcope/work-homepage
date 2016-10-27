@@ -88,13 +88,86 @@
 
     
 <div class="postindex">
-    <article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="figshare-api-working-group-oct-2016/" class="u-url">Figshare API working group - first meeting</a></h1>
+    <article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="rdm-gap-analysis/" class="u-url">Data sharing systems gap analysis</a></h1>
+        <div class="metadata">
+            <p class="byline author vcard"><span class="byline-name fn">
+                Jez Cope
+            </span></p>
+            <p class="dateline"><a href="rdm-gap-analysis/" rel="bookmark"><time class="published dt-published" datetime="2016-10-27T09:58:00+01:00" title="2016-10-27 09:58">2016-10-27 09:58</time></a></p>
+                <p class="commentline">
+        
+    <a href="rdm-gap-analysis/#disqus_thread" data-disqus-identifier="cache/notes/2016-10-rdm-gap-analysis.html">Comments</a>
+
+
+        </p>
+</div>
+    </header><div class="e-content entry-content">
+    <div class="aside">
+<p><strong><em>N.B. this is an early draft for comment, and may not reflect the final analysis that takes place.</em></strong></p>
+</div>
+<h2 id="introduction">Introduction</h2>
+<p>With <a href="https://sheffield.figshare.com/">ORDA (Online Research Data)</a>, powered by figshare, in place as our main institutional data catalogue and repository-of-last-resort, we can now look at other areas of support. Although ORDA will provide for the needs of a large number of researchers, there is a significant minority of users whose requirements go beyond this.</p>
+<p>This document is an attempt to systematically evaluate those needs and identify potential further areas for development.</p>
+<h2 id="description-of-areas">Description of areas</h2>
+<h3 id="security-classification">Security classification</h3>
+<p>It helps to have a classification of the openness of data, so for the purposes of this gap analysis I will adopt the <a href="https://www.ukdataservice.ac.uk/get-data/data-access-policy/">three-tiered scheme used by the UK Data Service</a>:</p>
+<dl>
+<dt>Open data</dt>
+<dd>Data which presents minimal risk of disclosing confidential information, which can be released, shared and reused without restriction
+</dd>
+<dt>Safeguarded data</dt>
+<dd>Data presenting a moderate risk of accidental disclosure, which can only be accessed by identified users subject to specific restrictions
+</dd>
+<dt>Controlled data</dt>
+<dd>Data presenting a high risk of accidental disclosure, which can only be accessed through a secure physical or virtual environment, depending on the nature of the risk
+</dd>
+</dl>
+<h3 id="size">Size</h3>
+<p>The key difficulty presented when sharing large datasets is delivery: how can a copy of the data be transferred from its main storage location to the location where it is to be used. For small- to moderate-sized datasets, the internet is the most effective solution, as it is quick and has no additional cost attached. As sizes increase, the internet remains viable but download times increase too, until the wait becomes impractical. Even under perfect conditions, a 7TB dataset would take nearly a week to transfer over a typical 100Mb network connection. The long-term storage of such large datasets also has cost implications.</p>
+<dl>
+<dt>Small to moderate</dt>
+<dd>Data which can be easily and cheaply delivered over the internet using existing infrastructure
+</dd>
+<dt>Large</dt>
+<dd>Data which can be delivered over the internet but has time and cost implications for doing so
+</dd>
+<dt>Very large</dt>
+<dd>Data which is completely impractical to deliver over the internet and must be delivered in physical format
+</dd>
+</dl>
+<h3 id="format">Format</h3>
+<dl>
+<dt>General files</dt>
+<dd>Simple "blobs" of data which can in some sense be regarded as black boxes
+</dd>
+<dt>Structured data</dt>
+<dd>Data with a well-defined structure that can be queried to provide meaningful subsets; often, but not always, regularly updated
+</dd>
+<dt>Multimedia data</dt>
+<dd>Images, video and audio data, which is generally quite large to download and manage but can be previewed within a web browser to facilitate discovery
+</dd>
+</dl>
+<h3 id="other-considerations">Other considerations</h3>
+<h4 id="data-with-associated-visualisations">Data with associated visualisations</h4>
+<p>Some researchers routinely make data available through custom web interfaces with additional querying and visualisation tools. There are many existing toolkits which make this easier, and certain types of data (such as GIS data) lends itself to this presentation.</p>
+<p>This should be encouraged, as it makes the data more accessible and greatly improves its potential for impact. However, it raises questions about the sustainability and preservation of such visualisations: is it sufficient to preserve the underlying data, or is it important to preserve the visualisation too?</p>
+<h4 id="data-with-rich-discipline-specific-metadata">Data with rich discipline-specific metadata</h4>
+<p>In areas where data sharing is well established, such as genomics and high-energy physics, there are well-established standards for both data and metadata.</p>
+<p>This enables better discoverability of data since potential reusers can filter and sort on attributes relevant to the discipline, such as geographic areas, time periods or genome regions. Although it is possible to upload such structured metadata into ORDA as a separate file (e.g. in XML format), this is not currently indexed by figshare and is therefore not available for discovery.</p>
+    </div>
+    </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="figshare-api-working-group-oct-2016/" class="u-url">Figshare API working group - first meeting</a></h1>
         <div class="metadata">
             <p class="byline author vcard"><span class="byline-name fn">
                 Jez Cope
             </span></p>
             <p class="dateline"><a href="figshare-api-working-group-oct-2016/" rel="bookmark"><time class="published dt-published" datetime="2016-10-13T18:12:06+01:00" title="2016-10-13 18:12">2016-10-13 18:12</time></a></p>
-        </div>
+                <p class="commentline">
+        
+    <a href="figshare-api-working-group-oct-2016/#disqus_thread" data-disqus-identifier="cache/notes/2016-10-figshare-api-working-group.html">Comments</a>
+
+
+        </p>
+</div>
     </header><div class="e-content entry-content">
     <p>On 11 October, Marcelo, Angus and I attended the first (online) meeting of the figshare API working group, joined by representatives from Loughborough, Stockholm and St Edwards Universities. This meeting was quite brief, involving an introduction of the purpose of the group (to exchange ideas about using the API and contribute to its direction) and a short demo of some of the features.</p>
 <p>For those unfamiliar, an API (Application Programmer Interface) is the part of a system that lets other systems talk to it. Just like the UI (User Interface) is designed for people and is hard for machines to use efficiently, an API is designed for machines and is difficult for humans to use directly in an effective way.</p>
@@ -106,7 +179,13 @@
                 Jez Cope
             </span></p>
             <p class="dateline"><a href="research-data-network-2/" rel="bookmark"><time class="published dt-published" datetime="2016-09-20T11:28:18+01:00" title="2016-09-20 11:28">2016-09-20 11:28</time></a></p>
-        </div>
+                <p class="commentline">
+        
+    <a href="research-data-network-2/#disqus_thread" data-disqus-identifier="cache/notes/2016-09-research-data-network-cambridge.html">Comments</a>
+
+
+        </p>
+</div>
     </header><div class="e-content entry-content">
     <blockquote>
 <p>"We are now on the brink of an achievable aim: for all science literature to be online, for all of the data to be online and for the two to be interoperable" — <em><a href="https://royalsociety.org/topics-policy/projects/science-public-enterprise/report/">Science as an Open Enterprise, The Royal Society (2012, p7)</a></em></p>
@@ -184,7 +263,13 @@
                 Jez Cope
             </span></p>
             <p class="dateline"><a href="overleaf/" rel="bookmark"><time class="published dt-published" datetime="2016-07-27T15:15:54+01:00" title="2016-07-27 15:15">2016-07-27 15:15</time></a></p>
-        </div>
+                <p class="commentline">
+        
+    <a href="overleaf/#disqus_thread" data-disqus-identifier="cache/notes/2016-07-overleaf.html">Comments</a>
+
+
+        </p>
+</div>
     </header><div class="e-content entry-content">
     <!--
 .. title: Overleaf Conference, July 2016
@@ -210,7 +295,13 @@
                 Jez Cope
             </span></p>
             <p class="dateline"><a href="datacite-client-meeting-july-2016/" rel="bookmark"><time class="published dt-published" datetime="2016-07-25T11:24:30+01:00" title="2016-07-25 11:24">2016-07-25 11:24</time></a></p>
-        </div>
+                <p class="commentline">
+        
+    <a href="datacite-client-meeting-july-2016/#disqus_thread" data-disqus-identifier="cache/notes/2016-07-datacite-client-meeting.html">Comments</a>
+
+
+        </p>
+</div>
     </header><div class="e-content entry-content">
     <!-- 
 .. title: DataCite Client Meeting July 2016
@@ -260,11 +351,9 @@
 
 
 
-
-
-
-
-        </div>
+        
+       <script>var disqus_shortname="jcope-work";(function(){var a=document.createElement("script");a.async=true;a.src="https://"+disqus_shortname+".disqus.com/count.js";(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(a)}());</script>
+</div>
         <!--End of body content-->
 
         <footer id="footer">

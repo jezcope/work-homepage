@@ -1,5 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Jez Cope (Research data)</title><link>http://jcope.shef.ac.uk/</link><description></description><atom:link type="application/rss+xml" rel="self" href="http://jcope.shef.ac.uk/categories/research-data.xml"></atom:link><language>en</language><lastBuildDate>Fri, 21 Oct 2016 12:47:40 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Research Data Network meeting #2, September 2016</title><link>http://jcope.shef.ac.uk/notes/research-data-network-2/</link><dc:creator>Jez Cope</dc:creator><description>&lt;blockquote&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jez Cope (Research data)</title><link>http://jcope.shef.ac.uk/</link><description></description><atom:link href="http://jcope.shef.ac.uk/categories/research-data.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Thu, 27 Oct 2016 09:18:27 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Data sharing systems gap analysis</title><link>http://jcope.shef.ac.uk/notes/rdm-gap-analysis/</link><dc:creator>Jez Cope</dc:creator><description>&lt;div class="aside"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;N.B. this is an early draft for comment, and may not reflect the final analysis that takes place.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;With &lt;a href="https://sheffield.figshare.com/"&gt;ORDA (Online Research Data)&lt;/a&gt;, powered by figshare, in place as our main institutional data catalogue and repository-of-last-resort, we can now look at other areas of support. Although ORDA will provide for the needs of a large number of researchers, there is a significant minority of users whose requirements go beyond this.&lt;/p&gt;
+&lt;p&gt;This document is an attempt to systematically evaluate those needs and identify potential further areas for development.&lt;/p&gt;
+&lt;h2 id="description-of-areas"&gt;Description of areas&lt;/h2&gt;
+&lt;h3 id="security-classification"&gt;Security classification&lt;/h3&gt;
+&lt;p&gt;It helps to have a classification of the openness of data, so for the purposes of this gap analysis I will adopt the &lt;a href="https://www.ukdataservice.ac.uk/get-data/data-access-policy/"&gt;three-tiered scheme used by the UK Data Service&lt;/a&gt;:&lt;/p&gt;
+&lt;dl&gt;
+&lt;dt&gt;Open data&lt;/dt&gt;
+&lt;dd&gt;Data which presents minimal risk of disclosing confidential information, which can be released, shared and reused without restriction
+&lt;/dd&gt;
+&lt;dt&gt;Safeguarded data&lt;/dt&gt;
+&lt;dd&gt;Data presenting a moderate risk of accidental disclosure, which can only be accessed by identified users subject to specific restrictions
+&lt;/dd&gt;
+&lt;dt&gt;Controlled data&lt;/dt&gt;
+&lt;dd&gt;Data presenting a high risk of accidental disclosure, which can only be accessed through a secure physical or virtual environment, depending on the nature of the risk
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;h3 id="size"&gt;Size&lt;/h3&gt;
+&lt;p&gt;The key difficulty presented when sharing large datasets is delivery: how can a copy of the data be transferred from its main storage location to the location where it is to be used. For small- to moderate-sized datasets, the internet is the most effective solution, as it is quick and has no additional cost attached. As sizes increase, the internet remains viable but download times increase too, until the wait becomes impractical. Even under perfect conditions, a 7TB dataset would take nearly a week to transfer over a typical 100Mb network connection. The long-term storage of such large datasets also has cost implications.&lt;/p&gt;
+&lt;dl&gt;
+&lt;dt&gt;Small to moderate&lt;/dt&gt;
+&lt;dd&gt;Data which can be easily and cheaply delivered over the internet using existing infrastructure
+&lt;/dd&gt;
+&lt;dt&gt;Large&lt;/dt&gt;
+&lt;dd&gt;Data which can be delivered over the internet but has time and cost implications for doing so
+&lt;/dd&gt;
+&lt;dt&gt;Very large&lt;/dt&gt;
+&lt;dd&gt;Data which is completely impractical to deliver over the internet and must be delivered in physical format
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;h3 id="format"&gt;Format&lt;/h3&gt;
+&lt;dl&gt;
+&lt;dt&gt;General files&lt;/dt&gt;
+&lt;dd&gt;Simple "blobs" of data which can in some sense be regarded as black boxes
+&lt;/dd&gt;
+&lt;dt&gt;Structured data&lt;/dt&gt;
+&lt;dd&gt;Data with a well-defined structure that can be queried to provide meaningful subsets; often, but not always, regularly updated
+&lt;/dd&gt;
+&lt;dt&gt;Multimedia data&lt;/dt&gt;
+&lt;dd&gt;Images, video and audio data, which is generally quite large to download and manage but can be previewed within a web browser to facilitate discovery
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;h3 id="other-considerations"&gt;Other considerations&lt;/h3&gt;
+&lt;h4 id="data-with-associated-visualisations"&gt;Data with associated visualisations&lt;/h4&gt;
+&lt;p&gt;Some researchers routinely make data available through custom web interfaces with additional querying and visualisation tools. There are many existing toolkits which make this easier, and certain types of data (such as GIS data) lends itself to this presentation.&lt;/p&gt;
+&lt;p&gt;This should be encouraged, as it makes the data more accessible and greatly improves its potential for impact. However, it raises questions about the sustainability and preservation of such visualisations: is it sufficient to preserve the underlying data, or is it important to preserve the visualisation too?&lt;/p&gt;
+&lt;h4 id="data-with-rich-discipline-specific-metadata"&gt;Data with rich discipline-specific metadata&lt;/h4&gt;
+&lt;p&gt;In areas where data sharing is well established, such as genomics and high-energy physics, there are well-established standards for both data and metadata.&lt;/p&gt;
+&lt;p&gt;This enables better discoverability of data since potential reusers can filter and sort on attributes relevant to the discipline, such as geographic areas, time periods or genome regions. Although it is possible to upload such structured metadata into ORDA as a separate file (e.g. in XML format), this is not currently indexed by figshare and is therefore not available for discovery.&lt;/p&gt;</description><category>Gap analysis</category><category>Research data</category><guid>http://jcope.shef.ac.uk/notes/rdm-gap-analysis/</guid><pubDate>Thu, 27 Oct 2016 08:58:00 GMT</pubDate></item><item><title>Research Data Network meeting #2, September 2016</title><link>http://jcope.shef.ac.uk/notes/research-data-network-2/</link><dc:creator>Jez Cope</dc:creator><description>&lt;blockquote&gt;
 &lt;p&gt;"We are now on the brink of an achievable aim: for all science literature to be online, for all of the data to be online and for the two to be interoperable" — &lt;em&gt;&lt;a href="https://royalsociety.org/topics-policy/projects/science-public-enterprise/report/"&gt;Science as an Open Enterprise, The Royal Society (2012, p7)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;On Tuesday 6 September, I trekked from the frigid northern wasteland I call home to the frigid air-conditioned McCrum Lecture Theatre at Corpus Christi College, Cambridge, for the second of an ongoing series of Research Data Network events, organised by Jisc.&lt;/p&gt;
