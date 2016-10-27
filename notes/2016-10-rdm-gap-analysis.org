@@ -1,0 +1,58 @@
+#+BEGIN_COMMENT
+.. title: Data sharing systems gap analysis
+.. slug: rdm-gap-analysis
+.. date: 2016-10-27 09:58:00 UTC+01:00
+.. tags: Research data,Gap analysis
+.. category: Documents
+.. description: A draft gap analysis for data sharing systems
+.. type: text
+#+END_COMMENT
+
+#+BEGIN_aside
+*/N.B. this is an early draft for comment, and may not reflect the final analysis that takes place./*
+#+END_aside
+
+* Introduction
+
+With [[https://sheffield.figshare.com/][ORDA (Online Research Data)]], powered by figshare, in place as our main institutional data catalogue and repository-of-last-resort, we can now look at other areas of support. Although ORDA will provide for the needs of a large number of researchers, there is a significant minority of users whose requirements go beyond this.
+
+This document is an attempt to systematically evaluate those needs and identify potential further areas for development.
+
+* Description of areas
+
+** Security classification
+
+It helps to have a classification of the openness of data, so for the purposes of this gap analysis I will adopt the [[https://www.ukdataservice.ac.uk/get-data/data-access-policy/][three-tiered scheme used by the UK Data Service]]:
+
+- Open data :: Data which presents minimal risk of disclosing confidential information, which can be released, shared and reused without restriction
+- Safeguarded data :: Data presenting a moderate risk of accidental disclosure, which can only be accessed by identified users subject to specific restrictions
+- Controlled data :: Data presenting a high risk of accidental disclosure, which can only be accessed through a secure physical or virtual environment, depending on the nature of the risk
+
+
+** Size
+
+The key difficulty presented when sharing large datasets is delivery: how can a copy of the data be transferred from its main storage location to the location where it is to be used. For small- to moderate-sized datasets, the internet is the most effective solution, as it is quick and has no additional cost attached. As sizes increase, the internet remains viable but download times increase too, until the wait becomes impractical. Even under perfect conditions, a 7TB dataset would take nearly a week to transfer over a typical 100Mb network connection. The long-term storage of such large datasets also has cost implications.
+
+- Small to moderate :: Data which can be easily and cheaply delivered over the internet using existing infrastructure
+- Large :: Data which can be delivered over the internet but has time and cost implications for doing so
+- Very large :: Data which is completely impractical to deliver over the internet and must be delivered in physical format
+
+** Format
+
+- General files :: Simple "blobs" of data which can in some sense be regarded as black boxes
+- Structured data :: Data with a well-defined structure that can be queried to provide meaningful subsets; often, but not always, regularly updated
+- Multimedia data :: Images, video and audio data, which is generally quite large to download and manage but can be previewed within a web browser to facilitate discovery
+
+** Other considerations
+
+*** Data with associated visualisations
+
+Some researchers routinely make data available through custom web interfaces with additional querying and visualisation tools. There are many existing toolkits which make this easier, and certain types of data (such as GIS data) lends itself to this presentation.
+
+This should be encouraged, as it makes the data more accessible and greatly improves its potential for impact. However, it raises questions about the sustainability and preservation of such visualisations: is it sufficient to preserve the underlying data, or is it important to preserve the visualisation too?
+
+*** Data with rich discipline-specific metadata
+
+In areas where data sharing is well established, such as genomics and high-energy physics, there are well-established standards for both data and metadata. 
+
+This enables better discoverability of data since potential reusers can filter and sort on attributes relevant to the discipline, such as geographic areas, time periods or genome regions. Although it is possible to upload such structured metadata into ORDA as a separate file (e.g. in XML format), this is not currently indexed by figshare and is therefore not available for discovery.
