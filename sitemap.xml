@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://jcope.shef.ac.uk/</loc>
-  <lastmod>2016-10-27T09:18:00Z</lastmod>
+  <lastmod>2016-11-09T16:32:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/2016/</loc>
@@ -111,11 +111,15 @@
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/talks/</loc>
-  <lastmod>2016-10-27T09:18:00Z</lastmod>
+  <lastmod>2016-11-09T16:33:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/talks/intro-to-rdm.html</loc>
   <lastmod>2016-09-20T10:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jcope.shef.ac.uk/talks/rdm-at-sheffield.html</loc>
+  <lastmod>2016-11-09T16:27:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/talks/rdm-update-oct-2016.html</loc>
