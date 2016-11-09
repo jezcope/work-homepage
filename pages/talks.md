@@ -11,9 +11,10 @@
 
 Unless otherwise stated, the slides on this page are copyright The University of Sheffield.
 
-Slides that I use regularly:
+Slides that I use regularly and will be updated periodically:
 
 - [Introduction to Research Data Management](intro-to-rdm.html) *[(PDF)](intro-to-rdm.pdf)*
+- [Overview of RDM at the University of Sheffield](rdm-at-sheffield.html) *[(PDF)](rdm-at-sheffield.pdf)*
 
 Other slides that I've used in the past:
 
