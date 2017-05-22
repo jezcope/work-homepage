@@ -1,0 +1,170 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil creator:nil d:(not "LOGBOOK") date:t e:t
+#+OPTIONS: email:nil f:t inline:t num:nil p:nil pri:nil prop:nil
+#+OPTIONS: stat:t tags:t tasks:t tex:t timestamp:t title:t toc:nil
+#+OPTIONS: todo:t |:t
+#+TITLE: Open research data
+#+DATE: <2017-05-22 Mon>
+#+AUTHOR: Jez Cope
+#+EMAIL: j.s.cope@sheffield.ac.uk
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 24.4.1 (Org mode 8.3.1)
+
+#+OPTIONS: reveal_center:t reveal_control:t reveal_height:-1
+#+OPTIONS: reveal_history:nil reveal_keyboard:t reveal_overview:t
+#+OPTIONS: reveal_progress:t reveal_rolling_links:nil
+#+OPTIONS: reveal_single_file:nil reveal_slide_number:"c"
+#+OPTIONS: reveal_title_slide:nil reveal_width:-1
+#+REVEAL_TRANS: fade
+#+REVEAL_SPEED: default
+#+REVEAL_THEME: tuos-lib-orange
+#+REVEAL_ROOT: ./reveal.js
+
+* Opening up research data
+
+#+ATTR_HTML: :class subtitle
+A Bitesize Guide to Research Data in the 21st Century
+
+/Jez Cope, Research Data Manager/ \\
+/University Library/
+
+* 19th century data
+:PROPERTIES:
+:reveal_background: images/logbook.jpg
+:END:
+
+* Why is this important?
+  
+We can't know _all_ possible uses of our own data
+
+** Definitions
+
+- Research data :: material collected and analysed to support research conclusions
+- Research data management :: ensuring data are safe; secure; organised; documented; preserved; appropriately shared
+
+** Drivers
+
+*** Technology
+
+More data
+
+Better connectivity
+
+*** Culture
+
+Data as a first-class citizen
+
+*** Transparency
+
+Show your working
+
+*** Value for money
+
+Don't collect the same data twice
+
+*** Policies
+
+/funder — publisher — institution/
+
+*** Legal requirements
+
+Intellectual property
+
+Data Protection Act
+
+** Opportunities
+
+*** Raise profile/ increase influence
+
+*** Attract collaborations
+
+*** Get more citations
+
+*** Enable new types of research
+
+** Risks
+
+Confidentiality
+
+Getting scooped
+
+* Practical steps
+  
+1. Write a data management plan
+2. Manage data during project
+3. Curate, preserve & share data
+
+** Write a data management plan
+
+Each funded project should have one
+
+-----
+
+#+ATTR_HTML: :class subhead
+University support
+
+- [[http://dmponline.dcc.ac.uk/][DMPonline]] for templates & expert guidance
+- We will comment on drafts: /[[mailto:rdm@sheffield.ac.uk][rdm@sheffield.ac.uk]]/
+
+** Manage data during project
+
+Documentation/metadata; organisation; backup; security
+
+-----
+
+#+ATTR_HTML: :class subhead
+University support
+
+- Doctoral Development Programme
+- /[[http://sheffield.ac.uk/library/rdm][sheffield.ac.uk/library/rdm]]/
+- Enquiries service: /[[mailto:rdm@sheffield.ac.uk][rdm@sheffield.ac.uk]]/
+- /Online training module (forthcoming)/
+
+** Curate, preserve and share data
+
+- Data underlying published conclusions
+- Data of particular value to the community
+- Other useful stuff (e.g. negative results)
+
+-----
+
+#+ATTR_HTML: :class subhead
+University support
+
+- Data Catalogue/Repository
+- /[[http://sheffield.ac.uk/library/rdm][sheffield.ac.uk/library/rdm]]/
+- Enquiries service: /[[mailto:rdm@sheffield.ac.uk][rdm@sheffield.ac.uk]]/
+
+*** ORDA: Online Research Data
+
+[[https://orda.shef.ac.uk/][orda.shef.ac.uk]]
+
+Share datasets, code, posters, presentations, ...
+
+DOI for every dataset
+
+Public & private sharing
+
+Altmetrics for everything
+
+Powered by figshare
+
+*** Data access statement
+
+"The data underlying this publication can be obtained..."
+
+- "...by downloading from http://dx.doi.org/10.15131/xzy"
+- "...on request by contacting /research-group-name@sheffield.ac.uk/"
+- "...by contacting our commercial partner /xyz/"
+- "No new data were created during the course of this study"
+* Questions for you                                                :noexport:
+  
+What is standard practice in your field?
+
+What support do you need?
+
+* Questions
+
+/[[mailto:rdm@sheffield.ac.uk][rdm@sheffield.ac.uk]]/
