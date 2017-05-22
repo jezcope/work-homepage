@@ -18,6 +18,8 @@ Slides that I use regularly and will be updated periodically:
 
 Other slides that I've used in the past:
 
+- 2017
+    - [A bitesize introduction to open data](2017-05-bitesize-research-data.html), *"A Bite Size Guide to Research Data in the 21st Century", Monday 22 May 2017* *([PDF](2017-05-bitesize-research-data.pdf) | [source](2017-05-bitesize-research-data.org))*
 - 2016
     - [Opening up Research data](scharr-open-data.html), *"ScHARR: Research in the 21st Century", Tuesday 24 May 2016*
     - [Figshare at the University of Sheffield](sheffield-uksg-figshare.html), *UKSG Annual Meeting, Bournemouth, Monday 11 – Wednesday 13 April 2016*
