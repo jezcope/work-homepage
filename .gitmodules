@@ -2,3 +2,6 @@
 	path = output
 	url = git@github.com:jezcope/work-homepage.git
 	branch = gh-pages
+[submodule "talks/theme"]
+	path = talks/theme
+	url = git@gitlab.com:jezcope/theme-reveal-tuoslib.git
