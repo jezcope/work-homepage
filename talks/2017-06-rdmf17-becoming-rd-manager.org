@@ -1,0 +1,442 @@
+#+TITLE: Becoming a research data manager
+#+DATE: Research Data Management Forum 17, June 2017
+#+AUTHOR: Jez Cope, Research Data Manager, University of Sheffield Library
+#+EMAIL: j.s.cope@sheffield.ac.uk
+
+* Becoming a research data manager
+
+{{{author}}}
+
+/{{{date}}}/
+
+** Health warning
+:PROPERTIES:
+:reveal_background: ./images/warning.jpg
+:END:
+
+This talk is largely reflection and conjecture
+
+#+ATTR_REVEAL: :frag t
+I hope you enjoy it anyway!
+
+#+ATTR_REVEAL: :frag t
+#+BEGIN_div
+These are my own opinions…
+
+…formed from my experience /and/ talking to people in the sector…
+
+…and don't necessarily represent any one institution
+#+END_div
+
+* A little bit about me
+
+
+Blog: [[https://erambler.co.uk/][~erambler.co.uk~]]
+
+Twitter: [[https://twitter.com/jezcope][~@jezcope~]]
+
+Github: [[https://github.com/jezcope][~jezcope~]]
+
+** Education
+:PROPERTIES:
+:reveal_background: ./images/phone-and-books.jpg
+:END:
+
+#+ATTR_REVEAL: :frag t
+MSci in Mathematics & Computing
+
+#+ATTR_REVEAL: :frag t
+3 years research experience \\
+/Computational systems biology, if you're interested/
+
+#+ATTR_REVEAL: :frag t
+Postgraduate Certificate in Higher Education
+
+*** What did I learn?
+
+#+ATTR_REVEAL: :frag t
+How researchers think and speak
+
+#+ATTR_REVEAL: :frag t
+How people learn
+
+** ICT Project Manager in Doctoral Training Centre
+:PROPERTIES:
+:reveal_background: ./images/lab.jpg
+:END:
+
+Centre for Sustainable Chemical Technologies
+
+Research360 project \\
+/Jisc MRD programme/
+
+*** What did I learn?
+
+#+ATTR_REVEAL: :frag t
+Be able to work both independently and collaboratively
+
+#+ATTR_REVEAL: :frag t
+Be agile and work with what you've got
+
+** Research Data Manager
+:PROPERTIES:
+:reveal_background: ./images/wbl.jpg
+:END:
+
+#+ATTR_REVEAL: :frag t
+Imperial College London
+
+#+ATTR_REVEAL: :frag t
+University of Sheffield
+
+#+ATTR_REVEAL: :frag t
+/Libraries at research-intensive universities/
+
+*** Key learning point
+
+#+ATTR_REVEAL: :frag t
+Work flexibly and don't make assumptions
+
+#+ATTR_REVEAL: :frag t
++Ignore+ Cross traditional silo boundaries
+
+#+ATTR_REVEAL: :frag t
+Build consensus and bring people with you on the journey
+
+** Where next?
+
+My job is fulfilling: interesting, varied and rewarding \\
+/i.e. I'm not going anywhere soon/
+
+#+ATTR_REVEAL: :frag t
+but I do have a stated aim to make myself redundant, so…
+
+#+ATTR_REVEAL: :frag t
+- Research?
+- Data science?
+- Consultancy?
+- Software development?
+- /Any suggestions?/
+
+* The wider profession 
+:PROPERTIES:
+:reveal_background: ./images/laptops.jpg
+:END:
+
+/I.e. enough about me!/
+
+** What does a research data manager do?
+
+#+BEGIN_two-column
+
+#+BEGIN_column
+Reviewing DMPs
+
+Writing documentation
+
+Teaching (and developing teaching materials)
+
+Planning
+
+Project management
+#+END_column
+
+#+BEGIN_column
+Community building
+
+Infrastructure building 
+
+Policy development
+
+Service evaluation
+
+...
+#+END_column
+
+#+END_two-column
+
+** Where do we get those skills?
+
+#+BEGIN_two-column
+
+#+BEGIN_column
+Librarians
+
+Archivists
+
+Researchers
+
+Technicians
+
+Data scientists
+#+END_column
+
+#+BEGIN_column
+IT professionals
+
+Research support professionals
+
+Project managers
+
+QA professionals
+#+END_column
+
+#+END_two-column
+
+** Where do they work?
+
+And what does that mean?
+
+*** Library
+
+Metadata; Access; Information Management
+
+*** Research Office
+
+Policy compliance; Risk management
+
+*** IT Services
+
+Technology; Infrastructure
+
+*** Academic departments
+
+Local, subject-specific needs; tactical rather than strategic
+
+* Challenges
+:PROPERTIES:
+:reveal_background: ./images/question.jpg
+:END:
+
+** Challenge 1: funding is difficult right now
+
+RDM skillset is valuable, and valued outside HE
+
+#+ATTR_REVEAL: :frag t
+Hard to recruit and retain talented people
+
+#+ATTR_REVEAL: :frag t
+Hard to justify expanding teams to meet demand
+
+** Challenge 2: no obvious career path
+
+People come from diverse backgrounds…
+
+#+ATTR_REVEAL: :frag t
+…which is /why/ we recruit them
+
+#+ATTR_REVEAL: :frag t
+But traditional promotion structures don't value that diversity
+
+** Challenge 3: it's a new and fragmented profession
+
+It's hard to find a local community
+
+* Solutions
+:PROPERTIES:
+:reveal_background: ./images/idea.jpg
+:END:
+
+** Continue making business case for institutional RDM support
+
+Sadly, money is important
+
+** Develop a career model for research data managers
+
+If we want to recruit, develop and retain talent…
+
+…we need to give people scope for development
+
+*** Research career model
+:PROPERTIES:
+:reveal_background: ./images/mrc-career-framework.png
+:END:
+
+*** Professional services career model
+
+Move around to get experience /within your service/
+
+Move up to positions of wider, more strategic responsibility
+
+*** Research software engineering
+
+Lobby universities & funders to:
+
+- acknowledge contributions
+- fund specific posts for RSEs
+
+*** Research data managers
+
+Some ideas:
+
+#+ATTR_REVEAL: :frag t
+Encourage freedom of movement across department boundaries
+
+#+ATTR_REVEAL: :frag t
+Aim to build capacity within departments and faculties
+
+#+ATTR_REVEAL: :frag t
+Work with other communities (e.g. RSE)
+
+** Continue community building
+
+Seek out and welcome new constituencies
+
+#+ATTR_REVEAL: :frag t
+/e.g. technicians, postdocs, RSEs/
+
+#+ATTR_REVEAL: :frag t
+Sector bodies cooperate to build a home and a voice for our profession \\
+/DCC, Jisc, DPC, CODATA, …/
+
+** Provide a range of opportunities
+
+Build skills: e.g. Library Carpentry
+
+Build experience: e.g. secondments, job shadowing, new posts
+
+* Conclusions
+
+** Right now…
+
+RDM is new and exciting...
+
+#+ATTR_REVEAL: :frag t
+...which means attracting talent isn't too difficult
+
+#+ATTR_REVEAL: :frag t
+But this will change!
+
+** For the future…
+
+We need to make sure we can recruit /and retain/ talented people
+
+#+ATTR_REVEAL: :frag t
+We're well on the way, but we're not there yet!
+
+* Acknowledgements
+
+/Literally/ hundreds of people who have supported me in my career and given me the opportunities that have put me here today
+
+[[https://www.mrc.ac.uk/skills-careers/interactive-career-framework/][Academic career model]] © 2017 Medical Research Council
+
+All other images ~CC0~ via [[https://pixabay.com][Pixabay]] and [[https://unsplash.com/][Unsplash]]
+
+* Notes :noexport:
+
+- Became research data manager by accident
+- My background:
+  - Degree in maths & computer science
+  - Never quite completed PhD in computational systems biology
+- I am typical because I am not typical?
+- Depends on
+  - Who had enough of an interest, plus skills, experience and credibility within institution  to start investigating and making the business case
+  - Who (at a senior level) could be persuaded first to do something about it
+- Departments
+  - Library
+    - Focus on metadata, access, information management
+  - IT services
+    - Focus on technology & infrastructure (spinning disks)
+  - Research office
+    - Focus on policy compliance and risk management
+- Other people in RDM roles
+  - Librarians
+  - Archivists
+  - Ex-postdocs
+  - IT folk
+  - Research office folk
+  - Project managers
+- Typical daily activities
+  - Reviewing DMPs
+  - Writing documentation
+  - Teaching (and developing teaching materials)
+  - Planning
+  - Project management
+  - Policy development
+  - Service evaluation
+  - ...
+- Relevant skills
+  - Project management
+  - Communication (all sorts!)
+    - Written
+      - Technical documentation
+      - Persuasive reports
+      - Informal news & opinions (e.g. blog)
+    - Spoken
+      - Large group presentations
+      - 1-to-1 with students, postdocs and senior academics
+  - Networking
+  - Influencing
+    - "Dogged consensus builder" ☺
+  - Teaching
+  - Policy development
+  - Research experience
+  - Metadata & information management
+  - Technical data analysis & visualisation
+  - Understanding of HE landscape
+- I sometimes feel like we're looking for unicorns!
+- Difficult to demonstrate & evidence need for services that don't exist yet, because nobody's using them!
+- What onward career options are there for research data managers?
+  - Senior library positions: tricky without library background
+  - Senior IT positions
+  - Senior research office positions
+  - Academic research
+- Hmm, all those options look like they will take skills and experience out of RDM
+
+* Metadata :noexport:
+:PROPERTIES:
+:VISIBILITY: folded
+:END:
+
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t
+#+OPTIONS: num:nil p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+OPTIONS: timestamp:nil title:nil toc:nil todo:t |:t
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 25.2.1 (Org mode 9.0.6)
+
+** Reveal.js settings
+
+#+OPTIONS: reveal_center:t reveal_control:t reveal_height:-1
+#+OPTIONS: reveal_history:nil reveal_keyboard:t reveal_overview:t
+#+OPTIONS: reveal_progress:t reveal_rolling_links:nil
+#+OPTIONS: reveal_single_file:nil reveal_slide_number:"c"
+#+OPTIONS: reveal_title_slide:nil reveal_width:-1
+#+REVEAL_MARGIN: -1
+#+REVEAL_MIN_SCALE: -1
+#+REVEAL_MAX_SCALE: -1
+# #+REVEAL_ROOT: http://jcope.staff.shef.ac.uk/talks/reveal.js/
+#+REVEAL_ROOT: ./reveal.js
+#+REVEAL_TRANS: linear
+#+REVEAL_SPEED: default
+#+REVEAL_THEME: simple
+#+REVEAL_EXTRA_CSS: theme/css/tuos-lib-orange.css
+#+REVEAL_EXTRA_JS:
+#+REVEAL_HLEVEL: 1
+#+REVEAL_TITLE_SLIDE_BACKGROUND:
+#+REVEAL_TITLE_SLIDE_BACKGROUND_SIZE:
+#+REVEAL_TITLE_SLIDE_BACKGROUND_POSITION:
+#+REVEAL_TITLE_SLIDE_BACKGROUND_REPEAT:
+#+REVEAL_TITLE_SLIDE_BACKGROUND_TRANSITION:
+# #+REVEAL_DEFAULT_SLIDE_BACKGROUND: wood-bg.jpg
+#+REVEAL_DEFAULT_SLIDE_BACKGROUND_SIZE:
+#+REVEAL_DEFAULT_SLIDE_BACKGROUND_POSITION:
+#+REVEAL_DEFAULT_SLIDE_BACKGROUND_REPEAT:
+#+REVEAL_DEFAULT_SLIDE_BACKGROUND_TRANSITION:
+#+REVEAL_MATHJAX_URL: https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+#+REVEAL_PREAMBLE:
+#+REVEAL_HEAD_PREAMBLE:
+#+REVEAL_POSTAMBLE:
+#+REVEAL_MULTIPLEX_ID:
+#+REVEAL_MULTIPLEX_SECRET:
+#+REVEAL_MULTIPLEX_URL:
+#+REVEAL_MULTIPLEX_SOCKETIO_URL:
+#+REVEAL_SLIDE_HEADER:
+#+REVEAL_SLIDE_FOOTER:
+#+REVEAL_PLUGINS:
+#+REVEAL_DEFAULT_FRAG_STYLE: roll-in
+#+REVEAL_INIT_SCRIPT:
+#+REVEAL_HIGHLIGHT_CSS: %r/lib/css/zenburn.css

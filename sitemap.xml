@@ -7,111 +7,115 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://jcope.shef.ac.uk/</loc>
-  <lastmod>2017-05-15T13:05:00Z</lastmod>
+  <lastmod>2017-05-22T10:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/2016/</loc>
-  <lastmod>2017-05-15T13:05:00Z</lastmod>
- </url>
- <url>
-  <loc>http://jcope.shef.ac.uk/archive.html</loc>
   <lastmod>2017-05-22T10:54:00Z</lastmod>
  </url>
  <url>
+  <loc>http://jcope.shef.ac.uk/archive.html</loc>
+  <lastmod>2017-06-12T10:05:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://jcope.shef.ac.uk/categories/</loc>
-  <lastmod>2017-05-15T13:05:00Z</lastmod>
+  <lastmod>2017-05-22T10:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/categories/api/</loc>
-  <lastmod>2017-05-15T13:05:00Z</lastmod>
+  <lastmod>2017-05-22T10:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/categories/cat_documents/</loc>
-  <lastmod>2017-05-15T13:05:00Z</lastmod>
+  <lastmod>2017-05-22T10:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/categories/cat_meetings/</loc>
-  <lastmod>2017-05-15T13:05:00Z</lastmod>
+  <lastmod>2017-05-22T10:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/categories/citation/</loc>
-  <lastmod>2017-05-15T13:05:00Z</lastmod>
+  <lastmod>2017-05-22T10:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/categories/collaboration/</loc>
-  <lastmod>2017-05-15T13:05:00Z</lastmod>
+  <lastmod>2017-05-22T10:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/categories/datacite/</loc>
-  <lastmod>2017-05-15T13:05:00Z</lastmod>
+  <lastmod>2017-05-22T10:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/categories/figshare/</loc>
-  <lastmod>2017-05-15T13:05:00Z</lastmod>
+  <lastmod>2017-05-22T10:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/categories/gap-analysis/</loc>
-  <lastmod>2017-05-15T13:05:00Z</lastmod>
+  <lastmod>2017-05-22T10:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/categories/jisc/</loc>
-  <lastmod>2017-05-15T13:05:00Z</lastmod>
+  <lastmod>2017-05-22T10:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/categories/metadata/</loc>
-  <lastmod>2017-05-15T13:05:00Z</lastmod>
+  <lastmod>2017-05-22T10:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/categories/overleaf/</loc>
-  <lastmod>2017-05-15T13:05:00Z</lastmod>
+  <lastmod>2017-05-22T10:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/categories/publishing/</loc>
-  <lastmod>2017-05-15T13:05:00Z</lastmod>
+  <lastmod>2017-05-22T10:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/categories/research-data-network/</loc>
-  <lastmod>2017-05-15T13:05:00Z</lastmod>
+  <lastmod>2017-05-22T10:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/categories/research-data/</loc>
-  <lastmod>2017-05-15T13:05:00Z</lastmod>
+  <lastmod>2017-05-22T10:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/categories/scholarly-communication/</loc>
-  <lastmod>2017-05-15T13:05:00Z</lastmod>
+  <lastmod>2017-05-22T10:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/notes/</loc>
-  <lastmod>2017-05-15T13:05:00Z</lastmod>
+  <lastmod>2017-05-22T10:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/notes/datacite-client-meeting-july-2016/</loc>
-  <lastmod>2017-05-15T13:05:00Z</lastmod>
+  <lastmod>2017-05-22T10:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/notes/figshare-api-working-group-oct-2016/</loc>
-  <lastmod>2017-05-15T13:05:00Z</lastmod>
+  <lastmod>2017-05-22T10:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/notes/overleaf/</loc>
-  <lastmod>2017-05-15T13:05:00Z</lastmod>
+  <lastmod>2017-05-22T10:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/notes/rdm-gap-analysis/</loc>
-  <lastmod>2017-05-15T13:05:00Z</lastmod>
+  <lastmod>2017-05-22T10:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/notes/research-data-network-2/</loc>
-  <lastmod>2017-05-15T13:05:00Z</lastmod>
+  <lastmod>2017-05-22T10:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/talks/</loc>
-  <lastmod>2017-05-22T10:57:00Z</lastmod>
+  <lastmod>2017-06-12T10:05:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/talks/2017-05-bitesize-research-data.html</loc>
   <lastmod>2017-05-22T10:53:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jcope.shef.ac.uk/talks/2017-06-rdmf17-becoming-rd-manager.html</loc>
+  <lastmod>2017-06-12T10:03:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/talks/intro-to-rdm.html</loc>
@@ -119,7 +123,7 @@
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/talks/rdm-at-sheffield.html</loc>
-  <lastmod>2016-12-20T15:57:00Z</lastmod>
+  <lastmod>2017-06-07T14:13:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/talks/rdm-update-oct-2016.html</loc>
@@ -127,7 +131,7 @@
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/talks/reveal.js/</loc>
-  <lastmod>2017-04-14T18:09:00Z</lastmod>
+  <lastmod>2017-03-15T14:23:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/talks/reveal.js/demo.html</loc>
@@ -200,5 +204,9 @@
  <url>
   <loc>http://jcope.shef.ac.uk/talks/sheffield-uksg-figshare.html</loc>
   <lastmod>2016-07-25T12:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jcope.shef.ac.uk/talks/theme/example.html</loc>
+  <lastmod>2017-06-12T08:36:00Z</lastmod>
  </url>
 </urlset>

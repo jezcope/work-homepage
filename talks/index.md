@@ -19,6 +19,7 @@ Slides that I use regularly and will be updated periodically:
 Other slides that I've used in the past:
 
 - 2017
+    - [Becoming a Research Data Manager: the view from the front](2017-06-rdmf17-becoming-rd-manager.html), [*"Research Data Management Forum #17", Friday 9 June 2017*](http://www.dcc.ac.uk/events/research-data-management-forum-rdmf/rdmf17) *([PDF](2017-06-rdmf17-becoming-rd-manager.pdf) | [source](2017-06-rdmf17-becoming-rd-manager.org))*
     - [A bitesize introduction to open data](2017-05-bitesize-research-data.html), *"A Bite Size Guide to Research Data in the 21st Century", Monday 22 May 2017* *([PDF](2017-05-bitesize-research-data.pdf) | [source](2017-05-bitesize-research-data.org))*
 - 2016
     - [Opening up Research data](scharr-open-data.html), *"ScHARR: Research in the 21st Century", Tuesday 24 May 2016*
