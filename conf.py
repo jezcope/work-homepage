@@ -84,6 +84,8 @@ BLOG_DESCRIPTION = "My work homepage"  # (translatable)
 # What is the default language?
 DEFAULT_LANG = "en"
 
+LOCALES = {'en': 'en_GB.UTF-8'}
+
 # What other languages do you have?
 # The format is {"translationcode" : "path/to/translation" }
 # the path will be used as a prefix for the generated pages location
