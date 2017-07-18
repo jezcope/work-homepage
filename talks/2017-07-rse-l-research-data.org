@@ -1,0 +1,247 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil creator:nil d:(not "LOGBOOK") date:t e:t
+#+OPTIONS: email:nil f:t inline:t num:nil p:nil pri:nil prop:nil
+#+OPTIONS: stat:t tags:t tasks:t tex:t timestamp:t title:t toc:nil
+#+OPTIONS: todo:t |:t
+#+TITLE: Open research data
+#+DATE: <2017-05-22 Mon>
+#+AUTHOR: Jez Cope
+#+EMAIL: j.s.cope@sheffield.ac.uk
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 24.4.1 (Org mode 8.3.1)
+
+#+OPTIONS: reveal_center:t reveal_control:t reveal_height:-1
+#+OPTIONS: reveal_history:t reveal_keyboard:t reveal_overview:t
+#+OPTIONS: reveal_progress:t reveal_rolling_links:nil
+#+OPTIONS: reveal_single_file:nil reveal_slide_number:"c"
+#+OPTIONS: reveal_title_slide:nil reveal_width:-1
+#+REVEAL_TRANS: fade
+#+REVEAL_SPEED: default
+#+REVEAL_THEME: tuos-lib-yellow
+#+REVEAL_EXTRA_CSS: theme/css/tuos-lib-yellow.css
+#+REVEAL_ROOT: ./reveal.js
+
+* Opening up research data
+:PROPERTIES:
+:CUSTOM_ID: title
+:END:
+
+#+ATTR_HTML: :class subtitle
+Libraries and RSEs working together
+
+/Jez Cope, Research Data Manager/ \\
+/University Library/
+
+* 19th century data
+:PROPERTIES:
+:reveal_background: images/logbook.jpg
+:CUSTOM_ID: c19-data
+:END:
+
+* Why is this important?
+:PROPERTIES:
+:CUSTOM_ID: why
+:END:
+  
+We can't know _all_ possible uses of our own data
+
+** Definitions
+:PROPERTIES:
+:CUSTOM_ID: defn
+:END:
+
+- Research data :: material collected and analysed to support research conclusions
+- Research data management :: ensuring data are safe; secure; organised; documented; preserved; appropriately shared
+
+** Drivers
+:PROPERTIES:
+:CUSTOM_ID: drivers
+:END:
+
+*** Technology
+:PROPERTIES:
+:CUSTOM_ID: technology
+:END:
+
+More data
+
+Better connectivity
+
+*** Culture
+:PROPERTIES:
+:CUSTOM_ID: culture
+:END:
+
+Data as a first-class citizen
+
+*** Transparency
+:PROPERTIES:
+:CUSTOM_ID: trans
+:END:
+
+Show your working
+
+*** Value for money
+:PROPERTIES:
+:CUSTOM_ID: value
+:END:
+
+Don't collect the same data twice
+
+*** Policies
+:PROPERTIES:
+:CUSTOM_ID: policy
+:END:
+
+/funder — publisher — institution/
+
+*** Legal requirements
+:PROPERTIES:
+:CUSTOM_ID: legal
+:END:
+
+Intellectual property
+
+Data Protection Act
+
+** Opportunities
+:PROPERTIES:
+:CUSTOM_ID: opportunities
+:END:
+
+- Raise profile/ increase influence
+- Attract collaborations
+- Get more citations
+- Enable new types of research
+
+** Risks
+:PROPERTIES:
+:CUSTOM_ID: risks
+:END:
+
+Confidentiality
+
+Getting scooped
+
+* Practical steps
+:PROPERTIES:
+:CUSTOM_ID: practical-steps
+:END:
+  
+1. Write a data management plan
+2. Manage data during project
+3. Curate, preserve & share data
+
+** ORDA: Online Research Data
+:PROPERTIES:
+:CUSTOM_ID: orda
+:END:
+
+[[https://orda.shef.ac.uk/][orda.shef.ac.uk]]
+
+Share datasets, code, posters, presentations, ...
+
+DOI for every dataset
+
+Public & private sharing
+
+Altmetrics for everything
+
+Powered by figshare
+
+** Data access statement
+:PROPERTIES:
+:CUSTOM_ID: data-access-statement
+:END:
+
+"The data underlying this publication can be obtained..."
+
+- "...by downloading from http://dx.doi.org/10.15131/xzy"
+- "...on request by contacting /research-group-name@sheffield.ac.uk/"
+- "...by contacting our commercial partner /xyz/"
+- "No new data were created during the course of this study"
+
+* Data & Software
+:PROPERTIES:
+:CUSTOM_ID: data-software
+:END:
+
+** FAIR data principles
+:PROPERTIES:
+:CUSTOM_ID: fair-data
+:END:
+
+- @@html:<strong>@@F@@html:</strong>@@indable
+- @@html:<strong>@@A@@html:</strong>@@ccessible
+- @@html:<strong>@@I@@html:</strong>@@nteroperable
+- @@html:<strong>@@R@@html:</strong>@@eusable(/reproducible)
+  
+Focus on machine-readibility
+
+Endorsed by Horizon 2020 and \\
+HEFCE/RCUK/UUK/Wellcome Concordat
+
+[[https://www.force11.org/group/fairgroup/fairprinciples]]
+
+** Reproducible research
+:PROPERTIES:
+:CUSTOM_ID: reproducible-research
+:END:
+
+*Code* can be seen as *documentation/metadata for data*
+
+*Data* is the *raw material processed by code*
+
+Each is useless without the other
+
+** The "Holy Trinity"
+:PROPERTIES:
+:CUSTOM_ID: holy-trinity
+:END:
+
+[[file:images/trinity.svg]]
+
+** Pooling expertise
+:PROPERTIES:
+:CUSTOM_ID: expertise
+:END:
+
+#+HTML: <div class="two-column"><div class="column">
+
+*RSE*
+
+- Code quality
+- Testing
+- Reproducibility
+- Data science
+
+#+HTML: </div><div class="column">
+
+*Library*
+
+- Data/information management
+- Copyright/licensing
+- Metadata
+- Preservation
+
+#+HTML: </div></div>
+
+*Together*
+
+- Training
+- Policy
+- Lobbying
+
+** Working together
+:PROPERTIES:
+:CUSTOM_ID: working-together
+:END:
+
+#+ATTR_REVEAL: :frag appear
+The Library preserves the research outputs
+
+#+ATTR_REVEAL: :frag appear
+RSE makes sure there's something worth preserving
+
