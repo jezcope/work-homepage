@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <title>Introduction to ORDA</title>
+    <meta name="author" content="(Jez Cope)"/>
+    <style type="text/css">
+      .underline { text-decoration: underline; }
+    </style>
+    <link rel="stylesheet" href="http://cdn.jsdelivr.net/reveal.js/3.0.0/css/reveal.css"/>
+
+    <link rel="stylesheet" href="./theme/css/tuos-lib-orange.css" id="theme"/>
+
+
+    <!-- If the query includes 'print-pdf', include the PDF print sheet -->
+    <script>
+      if( window.location.search.match( /print-pdf/gi ) ) {
+      var link = document.createElement( 'link' );
+      link.rel = 'stylesheet';
+      link.type = 'text/css';
+      link.href = 'http://cdn.jsdelivr.net/reveal.js/3.0.0/css/print/pdf.css';
+      document.getElementsByTagName( 'head' )[0].appendChild( link );
+      }
+    </script>
+
+    <script src="http://cdn.jsdelivr.net/reveal.js/3.0.0/lib/js/head.min.js"></script>
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+
+        <section>
+          <h1>What is ORDA?</h1>
+          <h2>Python Club, 6 July 2017<br/>
+            <img alt="Python logo"
+                 src="https://www.python.org/static/community_logos/python-logo-generic.svg"
+                 style="background: rgba(255, 255, 255, 0.2); border-radius: 1ex; padding: 1ex; border: none; box-shadow: none;"/></h2>
+
+          <p>
+            <i>Jez Cope, Research Data Manager</i> <br  />
+            <i>University Library</i>
+          </p>
+
+        </section>
+
+        <section>
+          <section>
+            Academic research is about <strong>solving
+            problems</strong>, <strong>creating knowledge</strong> and
+            <strong>communicating it to the world</strong>
+          </section>
+
+          <section>
+            <strong>Data</strong> is fundamental to research and its
+            communication
+          </section>
+
+          <section>
+            <h2>
+              ORDA lets you
+              <a href="https://orda.shef.ac.uk/" target="_blank">find and reuse data</a>
+            </h2>
+          </section>
+
+          <section>
+            <h2>
+              ORDA lets you
+              <a href="https://login.figshare.com/Shibboleth.sso/Login?entityID=https://idp.shef.ac.uk/shibboleth"
+                 target="_blank">share data</a>
+            </h2>
+          </section>
+
+          <section>
+            <h2>Other sources of data</h2>
+            <p><a href="http://www.re3data.org/">re3data.org</a></p>
+            <hr />
+            <p><a href="https://zenodo.org/">Zenodo</a></p>
+            <p><a href="https://figshare.com/">figshare.com</a></p>
+          </section>
+
+        </section>
+
+
+      </div>
+    </div>
+
+    <script src="http://cdn.jsdelivr.net/reveal.js/3.0.0/js/reveal.js"></script>
+
+    <script>
+     // Full list of configuration options available here:
+     // https://github.com/hakimel/reveal.js#configuration
+     Reveal.initialize({
+
+       controls: true,
+       progress: true,
+       history: true,
+       center: true,
+       slideNumber: 'c',
+       rollingLinks: false,
+       keyboard: true,
+       overview: true,
+
+       transition: Reveal.getQueryHash().transition || 'fade', // default/cube/page/concave/zoom/linear/fade/none
+       transitionSpeed: 'default',
+       multiplex: {
+         secret: '', // null if client
+         id: '', // id, obtained from socket.io server
+         url: '' // Location of socket.io server
+       },
+
+       // Optional libraries used to extend on reveal.js
+       dependencies: [
+         { src: 'http://cdn.jsdelivr.net/reveal.js/3.0.0/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+         { src: 'http://cdn.jsdelivr.net/reveal.js/3.0.0/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+         { src: 'http://cdn.jsdelivr.net/reveal.js/3.0.0/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+         { src: 'http://cdn.jsdelivr.net/reveal.js/3.0.0/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+         { src: 'http://cdn.jsdelivr.net/reveal.js/3.0.0/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }]
+     });
+    </script>
+  </body>
+</html>

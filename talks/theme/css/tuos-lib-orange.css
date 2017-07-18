@@ -338,7 +338,7 @@ body {
   .reveal dl dd {
     font-style: italic; }
   .reveal section[data-background-image] {
-    background: #000000aa;
+    background: rgba(0, 0, 0, 0.6);
     border-radius: 1ex; }
   .print-pdf .reveal {
     background-image: none; }
