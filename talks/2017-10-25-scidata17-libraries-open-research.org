@@ -1,0 +1,436 @@
+#+TITLE: Supporting Open Research
+#+DATE: SciData17, October 2017
+#+AUTHOR: Jez Cope
+#+EMAIL: j.s.cope@sheffield.ac.uk
+
+
+* Supporting Open Research
+:PROPERTIES:
+:CUSTOM_ID: title
+:END:
+
+#+ATTR_HTML: :class subtitle
+The role of an academic library
+
+#SciData17 · Wednesday 25 October 2017
+
+Jez Cope, Research Data Manager\\
+University of Sheffield Library
+
+[[https://twitter.com/jezcope][@jezcope]] · [[https://erambler.co.uk][erambler.co.uk]] · [[https://github.com/jezcope][github.com/jezcope]]
+
+* Overview
+
+What is a modern research library?
+
+Why are we involved with Open Research?
+
+What can we do for you?
+
+* A reminder
+
+Submit questions at [[http://slido.com/scidata17][slido.com/scidata17]]
+
+*  About me :noexport:
+
+#+ATTR_REVEAL: :frag t
+MSci in Mathematics & Computing
+
+#+ATTR_REVEAL: :frag t
+3 years research experience \\
+/Computational systems biology, if you're interested/
+
+#+ATTR_REVEAL: :frag t
+7 years in various research support roles \\
+/The last 3 in research data/
+
+#+ATTR_REVEAL: :frag t
+Not a real librarian \\
+/(shh, don't tell anyone!)/
+
+* "Why do we still /need/ libraries?"
+:PROPERTIES:
+:reveal_background: images/dusty-books.jpg
+:CUSTOM_ID: why-libraries
+:END:
+
+#+ATTR_REVEAL: :frag t
+/"I mean, I can get everything online for free now…"/
+
+** A library is more than a building full of books
+:PROPERTIES:
+:reveal_background: images/wbl.jpg
+:END:
+
+#+BEGIN_COMMENT
+- We also purchase access to electronic journals, books, databases
+  - With shrinking budgets!
+  - And we make them accessible seamlessly
+  - And find other ways to get you what you need (e.g. inter-library loans, facilitating open access)
+- We make sure you can find what you need
+  - Accurate metadata for each and every item
+- We teach your students
+  - how to reference properly
+  - how to do a literature search
+  - how to evaluate the quality of a resource
+- And that building isn't just a book-house, it has formal and informal spaces to support a wide range of different study needs, from solo study to group work
+#+END_COMMENT
+
+** What do /librarians/ do?
+
+#+BEGIN_QUOTE
+“Librarians consider free access to information the foundation of democracy.” \\
+— Marilyn Johnson (2011), /This Book Is Overdue!: How Librarians and Cybrarians Can Save Us All/
+#+END_QUOTE
+
+** Traditional librarianship expertise
+:PROPERTIES:
+:CUSTOM_ID: librarian-skills
+:END:
+
+#+BEGIN_two-column
+
+#+BEGIN_column
+#+ATTR_REVEAL: :frag t
+Discoverability
+
+#+ATTR_REVEAL: :frag t
+Metadata
+
+#+ATTR_REVEAL: :frag t
+Information management systems
+
+#+ATTR_REVEAL: :frag t
+Preservation
+#+END_column
+
+#+BEGIN_column
+#+ATTR_REVEAL: :frag t
+Copyright/licensing
+
+#+ATTR_REVEAL: :frag t
+Information literacy
+
+#+ATTR_REVEAL: :frag t
+Policy
+
+#+ATTR_REVEAL: :frag t
+Teaching
+#+END_column
+
+#+END_two-column
+
+** So what?
+:PROPERTIES:
+:CUSTOM_ID: so-what
+:END:
+
+#+ATTR_REVEAL: :frag t
+Librarians manage information
+
+#+ATTR_REVEAL: :frag t
+Librarians facilitate access to information
+
+#+ATTR_REVEAL: :frag t
+Research data is information…
+
+** Aha...
+:PROPERTIES:
+:reveal_background: images/lightbulb.jpg
+:CUSTOM_ID: aha
+:END:
+
+* What can your librarian do for you?
+:PROPERTIES:
+:CUSTOM_ID: what-we-do
+:END:
+
+** Library Strategic Plan
+:PROPERTIES:
+:CUSTOM_ID: strategic-plan
+:END:
+
+At the University of Sheffield
+
+*Theme 2 (of 6): "Research Excellence & Impact"*
+
+** Highlights
+:PROPERTIES:
+:CUSTOM_ID: strategic-plan-highlights
+:END:
+
+"…cohesive offering of library research services…"
+
+"…new models of scholarly communication…"
+
+"…secure digital assets for the future…"
+
+** The "Holy Trinity"
+:PROPERTIES:
+:CUSTOM_ID: holy-trinity
+:END:
+
+[[file:images/trinity.svg]]
+
+** Metadata
+
+Help make your content…
+
+/articles, books, data, software, whatever/
+
+…easier to navigate and understand
+
+** Discoverability
+
+Help make your content easier to find
+
+…and therefore more likely to have an impact
+
+Measure that impact with traditional & alternative metrics
+
+** Information management systems
+
+Ways of storing your content to maintain your sanity
+
+/That includes both digital and physical systems/
+
+** Preservation
+
+Keep your content available over decades and centuries
+
+** Copyright/licensing
+
+Navigate a complex landscape of rights and responsibilities
+
+** Information literacy
+
+Evaluate the quality of information sources
+
+** Policy
+
+Stand up for the needs of our users
+
+** Open access to publications
+:PROPERTIES:
+:CUSTOM_ID: oa-pubs
+:END:
+
+Article Processing Charges (for paid/gold OA)
+
+Institutional repository (for self-archiving/green OA)
+
+** Open data
+:PROPERTIES:
+:CUSTOM_ID: open-data
+:END:
+
+Data repository
+
+Data management plans
+
+** Open research generally
+:PROPERTIES:
+:CUSTOM_ID: open-research
+:END:
+
+#+BEGIN_two-column
+
+#+BEGIN_column
+Writing guidance
+
+Teaching (and developing teaching materials)
+
+Planning
+
+Managing projects
+#+END_column
+
+#+BEGIN_column
+Community building
+
+Infrastructure building 
+
+Policy development
+
+Service evaluation
+
+...
+#+END_column
+
+#+END_two-column
+
+** Collaborations
+
+IT service
+
+Research office
+
+Research software engineering
+
+Research ethics
+
+Faculties, departments & institutes
+
+** Collaboration example: research software engineering
+:PROPERTIES:
+:CUSTOM_ID: expertise
+:END:
+
+#+BEGIN_two-column
+
+#+BEGIN_column
+*RSE*
+
+- Code quality
+- Testing
+- Reproducibility
+- Data science
+#+END_column
+
+#+BEGIN_column
+*Library*
+
+- Data/information management
+- Copyright/licensing
+- Metadata
+- Preservation
+#+END_column
+
+#+END_two-column
+
+*Together*
+
+Training · Policy · Lobbying
+
+* New directions
+:PROPERTIES:
+:CUSTOM_ID: new-directions
+:END:
+
+** Data visualisation
+:PROPERTIES:
+:reveal_background: images/orda-vis-showcase.png
+:CUSTOM_ID: datavis
+:END:
+
+** Data librarians
+:PROPERTIES:
+:CUSTOM_ID: data-librarians
+:reveal_background: images/laptop-phone-penknife.jpg
+:END:
+
+Hybrid librarian & data scientist
+
+Often embedded in research departments
+
+(More common in the US)
+
+** Library Carpentry
+:PROPERTIES:
+:CUSTOM_ID: library-carpentry
+:reveal_background: images/carpentry.jpg
+:END:
+
+Data skills for /all/ librarians!
+
+** New scholarly communications
+:PROPERTIES:
+:CUSTOM_ID: new-schol-comms
+:reveal_background: images/phone-and-books.jpg
+:END:
+
+Data journals
+
+Short-form monographs
+
+Student journals
+
+Altmetrics
+
+* What can you do for your librarian?
+:PROPERTIES:
+:reveal_background: images/question.jpg
+:END:
+
+Ask questions
+
+Let them know what you need
+
+Tell people how much you still get from the library
+
+#+ATTR_REVEAL: :frag t
+/Oh, and please submit your reading lists on time…/
+
+* Questions?
+:PROPERTIES:
+:CUSTOM_ID: questions
+:reveal_background: images/question-mark.jpg
+:END:
+
+Thanks for listening!
+
+* Questions?
+:PROPERTIES:
+:CUSTOM_ID: questions-2
+:reveal_background: images/question-mark.jpg
+:END:
+
+#+HTML: <iframe src="https://wall2.sli.do/event/o0krjapv?section=c1434aa1-685c-45f1-bb51-ce2e0ff67764" style="height: 70vh; width: 70vw;"></iframe>
+
+* Metadata :noexport:
+:PROPERTIES:
+:VISIBILITY: folded
+:END:
+
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t
+#+OPTIONS: num:nil p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+OPTIONS: timestamp:nil title:nil toc:nil todo:t |:t
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 25.2.1 (Org mode 9.0.6)
+
+** Reveal.js settings
+
+#+OPTIONS: reveal_center:t reveal_control:t reveal_height:-1
+#+OPTIONS: reveal_history:t reveal_keyboard:t reveal_overview:t
+#+OPTIONS: reveal_progress:t reveal_rolling_links:nil
+#+OPTIONS: reveal_single_file:nil reveal_slide_number:"h.v"
+#+OPTIONS: reveal_title_slide:nil reveal_width:-1
+#+REVEAL_MARGIN: -1
+#+REVEAL_MIN_SCALE: -1
+#+REVEAL_MAX_SCALE: -1
+# #+REVEAL_ROOT: http://jcope.staff.shef.ac.uk/talks/reveal.js/
+#+REVEAL_ROOT: ./reveal.js
+#+REVEAL_TRANS: slide
+#+REVEAL_SPEED: default
+#+REVEAL_THEME: simple
+#+REVEAL_EXTRA_CSS: theme/css/tuos-lib-orange.css
+#+REVEAL_EXTRA_JS:
+#+REVEAL_HLEVEL: 1
+#+REVEAL_TITLE_SLIDE_BACKGROUND:
+#+REVEAL_TITLE_SLIDE_BACKGROUND_SIZE:
+#+REVEAL_TITLE_SLIDE_BACKGROUND_POSITION:
+#+REVEAL_TITLE_SLIDE_BACKGROUND_REPEAT:
+#+REVEAL_TITLE_SLIDE_BACKGROUND_TRANSITION:
+# #+REVEAL_DEFAULT_SLIDE_BACKGROUND: wood-bg.jpg
+#+REVEAL_DEFAULT_SLIDE_BACKGROUND_SIZE:
+#+REVEAL_DEFAULT_SLIDE_BACKGROUND_POSITION:
+#+REVEAL_DEFAULT_SLIDE_BACKGROUND_REPEAT:
+#+REVEAL_DEFAULT_SLIDE_BACKGROUND_TRANSITION:
+#+REVEAL_MATHJAX_URL: https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+#+REVEAL_PREAMBLE:
+#+REVEAL_HEAD_PREAMBLE:
+#+REVEAL_POSTAMBLE:
+#+REVEAL_MULTIPLEX_ID:
+#+REVEAL_MULTIPLEX_SECRET:
+#+REVEAL_MULTIPLEX_URL:
+#+REVEAL_MULTIPLEX_SOCKETIO_URL:
+#+REVEAL_SLIDE_HEADER:
+#+REVEAL_SLIDE_FOOTER:
+#+REVEAL_PLUGINS:
+#+REVEAL_DEFAULT_FRAG_STYLE: roll-in
+#+REVEAL_INIT_SCRIPT:
+#+REVEAL_HIGHLIGHT_CSS: %r/lib/css/zenburn.css
