@@ -20,6 +20,9 @@ University of Sheffield Library
 [[https://twitter.com/jezcope][@jezcope]] · [[https://erambler.co.uk][erambler.co.uk]] · [[https://github.com/jezcope][github.com/jezcope]]
 
 * Overview
+:PROPERTIES:
+:CUSTOM_ID: overview
+:END:
 
 What is a modern research library?
 
@@ -28,25 +31,26 @@ Why are we involved with Open Research?
 What can we do for you?
 
 * A reminder
+:PROPERTIES:
+:CUSTOM_ID: reminder
+:END:
 
 Submit questions at [[http://slido.com/scidata17][slido.com/scidata17]]
 
-*  About me :noexport:
+These slides at [[http://jcope.shef.ac.uk/talks/][jcope.shef.ac.uk/talks]]
+
+[[https://doi.org/10.15131/shef.data.5537269][doi:10.15131/shef.data.5537269]]
+
+*  About me
+:PROPERTIES:
+:CUSTOM_ID: about-me
+:END:
 
 #+ATTR_REVEAL: :frag t
-MSci in Mathematics & Computing
+Not a real librarian
 
 #+ATTR_REVEAL: :frag t
-3 years research experience \\
-/Computational systems biology, if you're interested/
-
-#+ATTR_REVEAL: :frag t
-7 years in various research support roles \\
-/The last 3 in research data/
-
-#+ATTR_REVEAL: :frag t
-Not a real librarian \\
-/(shh, don't tell anyone!)/
+/Shh, don't tell anyone!/
 
 * "Why do we still /need/ libraries?"
 :PROPERTIES:
@@ -60,6 +64,7 @@ Not a real librarian \\
 ** A library is more than a building full of books
 :PROPERTIES:
 :reveal_background: images/wbl.jpg
+:CUSTOM_ID: library-building
 :END:
 
 #+BEGIN_COMMENT
@@ -77,6 +82,9 @@ Not a real librarian \\
 #+END_COMMENT
 
 ** What do /librarians/ do?
+:PROPERTIES:
+:CUSTOM_ID: what-librarians-do
+:END:
 
 #+BEGIN_QUOTE
 “Librarians consider free access to information the foundation of democracy.” \\
@@ -132,7 +140,7 @@ Librarians manage information
 Librarians facilitate access to information
 
 #+ATTR_REVEAL: :frag t
-Research data is information…
+Research /is/ information…
 
 ** Aha...
 :PROPERTIES:
@@ -172,15 +180,26 @@ At the University of Sheffield
 
 [[file:images/trinity.svg]]
 
-** Metadata
+** FAIR data
+:PROPERTIES:
+:CUSTOM_ID: fair-data
+:END:
 
-Help make your content…
+Findable
 
-/articles, books, data, software, whatever/
+Accessible
 
-…easier to navigate and understand
+Interoperable
+
+Reusable
+
+#+ATTR_REVEAL: :frag t
+/(of course…)/
 
 ** Discoverability
+:PROPERTIES:
+:CUSTOM_ID: discoverability
+:END:
 
 Help make your content easier to find
 
@@ -188,27 +207,67 @@ Help make your content easier to find
 
 Measure that impact with traditional & alternative metrics
 
+_F_ · _A_ · I · R 
+
+** Metadata
+:PROPERTIES:
+:CUSTOM_ID: metadata
+:END:
+
+Help make your content…
+
+/articles, books, data, software, whatever/
+
+…easier to navigate and understand
+
+F · _A_ · _I_ · _R_ 
+
 ** Information management systems
+:PROPERTIES:
+:CUSTOM_ID: info-management
+:END:
 
 Ways of storing your content to maintain your sanity
 
 /That includes both digital and physical systems/
 
+F · _A_ · I · _R_ 
+
 ** Preservation
+:PROPERTIES:
+:CUSTOM_ID: preservation
+:END:
 
 Keep your content available over decades and centuries
 
+F · A · I · _R_ 
+
 ** Copyright/licensing
+:PROPERTIES:
+:CUSTOM_ID: copyright-licensing
+:END:
 
 Navigate a complex landscape of rights and responsibilities
 
+F · A · I · _R_ 
+
 ** Information literacy
+:PROPERTIES:
+:CUSTOM_ID: info-lit
+:END:
 
 Evaluate the quality of information sources
 
+F · _A_ · I · R 
+
 ** Policy
+:PROPERTIES:
+:CUSTOM_ID: policy
+:END:
 
 Stand up for the needs of our users
+
+_F_ · _A_ · _I_ · _R_ 
 
 ** Open access to publications
 :PROPERTIES:
@@ -260,6 +319,11 @@ Service evaluation
 #+END_two-column
 
 ** Collaborations
+:PROPERTIES:
+:CUSTOM_ID: collaborations
+:END:
+
+Within the Library
 
 IT service
 
@@ -273,7 +337,7 @@ Faculties, departments & institutes
 
 ** Collaboration example: research software engineering
 :PROPERTIES:
-:CUSTOM_ID: expertise
+:CUSTOM_ID: rse
 :END:
 
 #+BEGIN_two-column
@@ -350,16 +414,30 @@ Altmetrics
 * What can you do for your librarian?
 :PROPERTIES:
 :reveal_background: images/question.jpg
+:CUSTOM_ID: what-can-you-do
 :END:
 
 Ask questions
+
+Invite them to contribute
 
 Let them know what you need
 
 Tell people how much you still get from the library
 
 #+ATTR_REVEAL: :frag t
-/Oh, and please submit your reading lists on time…/
+/Oh, and please submit your reading lists on time…/ 😉
+
+* Acknowledgements
+:PROPERTIES:
+:CUSTOM_ID: acknowledgements
+:END:
+
+Research Support Unit, University Library
+
+CICS, Research Services, RSE at Sheffield
+
+Everyone whose ideas you've just seen!
 
 * Questions?
 :PROPERTIES:
