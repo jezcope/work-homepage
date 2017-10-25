@@ -39,6 +39,8 @@ Submit questions at [[http://slido.com/scidata17][slido.com/scidata17]]
 
 These slides at [[http://jcope.shef.ac.uk/talks/][jcope.shef.ac.uk/talks]]
 
+[[https://doi.org/10.15131/shef.data.5537269][doi:10.15131/shef.data.5537269]]
+
 *  About me
 :PROPERTIES:
 :CUSTOM_ID: about-me
