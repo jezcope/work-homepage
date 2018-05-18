@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jez Cope (Posts about Reproducibility)</title><link>http://jcope.shef.ac.uk/</link><description></description><atom:link href="http://jcope.shef.ac.uk/categories/reproducibility.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Fri, 18 May 2018 09:03:25 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>DPC Software Preservation webinar series episode 1</title><link>http://jcope.shef.ac.uk/notes/software-pres-webinar-1/</link><dc:creator>Jez Cope</dc:creator><description>&lt;!--
+.. title: DPC Software Preservation webinar series episode 1
+.. slug: software-pres-webinar-1
+.. date: 2018-05-18 09:38:54 UTC+01:00
+.. tags: Software Preservation,Digital Preservation,Reproducibility
+.. category: Webinars
+.. link: https://dpconline.org/events/past-events/webinars/spw-software-preservation-overview
+.. description: 
+.. type: text
+--&gt;
+&lt;p&gt;This webinar, on 25 April 2018, was the first in a series on software preservation organised jointly by the Digital Preservation Coalition and Software Preservation Network. It served as an introduction to the remainder of the series and, as such, gave an overview of the history and current state of the field.&lt;/p&gt;
+&lt;p&gt;Software preservation as an activity has been taking place for decades, but primarily led by amateur enthusiasts in specific niches, such as computer games and open source software. The Internet Archive has an amazing collection of console games, for example, many of which are now playable in the browser on their website.&lt;/p&gt;
+&lt;p&gt;Software is now becoming a higher priority for professional archivists for two reasons:&lt;/p&gt;
+&lt;ol type="1"&gt;
+&lt;li&gt;Digital collections are aging and increasingly likely to rely on obsolete commercial software for access;&lt;/li&gt;
+&lt;li&gt;Research software is an increasingly key part of the scholarly record, necessary to maintain trust in that record.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;In addition there is a large area of overlap where software used to produce research results is itself commercial.&lt;/p&gt;
+&lt;p&gt;There are a number of challenges to be addressed in preserving this software. IP ownership and licensing often makes preservation and future use of software legally risky. It is also necessary to ensure other prerequisites for running the software, including the underlying operating system and possibly hardware, can continue to be met.&lt;/p&gt;
+&lt;p&gt;The remainder of the series will focus on particular aspects of this lively and growing area.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.eventbrite.com/e/software-preservation-webinar-series-tickets-44545576017"&gt;Register for the remaining episodes in the series&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://dpconline.org/events/past-events/webinars/spw-software-preservation-overview"&gt;Recording and resources for this episode&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><category>Digital Preservation</category><category>Reproducibility</category><category>Software Preservation</category><guid>http://jcope.shef.ac.uk/notes/software-pres-webinar-1/</guid><pubDate>Fri, 18 May 2018 08:38:54 GMT</pubDate></item></channel></rss>
