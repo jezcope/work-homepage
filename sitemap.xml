@@ -19,11 +19,11 @@
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/archive.html</loc>
-  <lastmod>2018-05-18T08:49:00Z</lastmod>
+  <lastmod>2018-05-18T13:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/categories/</loc>
-  <lastmod>2018-05-18T08:49:00Z</lastmod>
+  <lastmod>2018-05-18T13:27:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/categories/api/</loc>
@@ -34,8 +34,16 @@
   <lastmod>2017-06-12T19:49:00Z</lastmod>
  </url>
  <url>
+  <loc>http://jcope.shef.ac.uk/categories/cat_events/</loc>
+  <lastmod>2018-05-18T13:15:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://jcope.shef.ac.uk/categories/cat_meetings/</loc>
   <lastmod>2017-06-12T19:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jcope.shef.ac.uk/categories/cat_teaching/</loc>
+  <lastmod>2018-05-18T13:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/categories/cat_webinars/</loc>
@@ -54,8 +62,28 @@
   <lastmod>2017-06-12T19:49:00Z</lastmod>
  </url>
  <url>
+  <loc>http://jcope.shef.ac.uk/categories/datashef/</loc>
+  <lastmod>2018-05-18T13:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jcope.shef.ac.uk/categories/dataviz-hub/</loc>
+  <lastmod>2018-05-18T13:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jcope.shef.ac.uk/categories/dataviz/</loc>
+  <lastmod>2018-05-18T13:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jcope.shef.ac.uk/categories/datavizshef/</loc>
+  <lastmod>2018-05-18T13:27:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://jcope.shef.ac.uk/categories/digital-preservation/</loc>
   <lastmod>2018-05-18T08:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jcope.shef.ac.uk/categories/event/</loc>
+  <lastmod>2018-05-18T13:15:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/categories/figshare/</loc>
@@ -68,6 +96,10 @@
  <url>
   <loc>http://jcope.shef.ac.uk/categories/jisc/</loc>
   <lastmod>2017-06-12T19:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jcope.shef.ac.uk/categories/library-carpentry/</loc>
+  <lastmod>2018-05-18T13:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/categories/metadata/</loc>
@@ -102,16 +134,36 @@
   <lastmod>2018-05-18T08:49:00Z</lastmod>
  </url>
  <url>
+  <loc>http://jcope.shef.ac.uk/categories/training/</loc>
+  <lastmod>2018-05-18T13:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jcope.shef.ac.uk/categories/university-of-edinburgh/</loc>
+  <lastmod>2018-05-18T13:12:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://jcope.shef.ac.uk/notes/</loc>
-  <lastmod>2018-05-18T09:02:00Z</lastmod>
+  <lastmod>2018-05-18T13:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jcope.shef.ac.uk/notes/2018-05-datavis-hub-launch/</loc>
+  <lastmod>2018-05-18T13:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/notes/datacite-client-meeting-july-2016/</loc>
   <lastmod>2017-06-12T19:49:00Z</lastmod>
  </url>
  <url>
+  <loc>http://jcope.shef.ac.uk/notes/datavis-hub-launch/</loc>
+  <lastmod>2018-05-18T13:15:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://jcope.shef.ac.uk/notes/figshare-api-working-group-oct-2016/</loc>
   <lastmod>2017-06-12T19:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://jcope.shef.ac.uk/notes/library-carpentry-edinburgh-2018/</loc>
+  <lastmod>2018-05-18T13:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://jcope.shef.ac.uk/notes/overleaf/</loc>

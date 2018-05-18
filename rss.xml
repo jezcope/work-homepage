@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jez Cope</title><link>http://jcope.shef.ac.uk/</link><description>My work homepage</description><atom:link href="http://jcope.shef.ac.uk/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Fri, 18 May 2018 09:03:25 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>DPC Software Preservation webinar series episode 1</title><link>http://jcope.shef.ac.uk/notes/software-pres-webinar-1/</link><dc:creator>Jez Cope</dc:creator><description>&lt;!--
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jez Cope</title><link>http://jcope.shef.ac.uk/</link><description>My work homepage</description><atom:link href="http://jcope.shef.ac.uk/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Fri, 18 May 2018 13:28:58 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>dataviz.shef Dataviz Hub Launch</title><link>http://jcope.shef.ac.uk/notes/datavis-hub-launch/</link><dc:creator>Jez Cope</dc:creator><description>&lt;!--
+.. title: dataviz.shef Dataviz Hub Launch
+.. slug: datavis-hub-launch
+.. date: 2018-05-18 14:28:28 UTC+01:00
+.. tags: Dataviz,Dataviz Hub,Event,dataviz.shef
+.. category: Events
+.. link: 
+.. description: 
+.. type: text
+--&gt;
+&lt;p&gt;On Wednesday 25 April, the Library, CiCS and Research Software Engineering (RSE) launched a new University-wide data visualisation forum for researchers to share knowledge, skills &amp;amp; examples of creating visual representations of data.&lt;/p&gt;
+&lt;p&gt;The event was opened by University Librarian Anne Horn, who introduced main speaker Professor &lt;a href="https://www.sheffield.ac.uk/socstudies/staff/staff-profiles/helen-kennedy#tab01"&gt;Helen Kennedy from the Department of Socialogical Studies&lt;/a&gt;. Helen gave us a fascinating introduction to the societal implications of big data and dataviz, drawing on a number of projects (including &lt;a href="http://seeingdata.org/"&gt;Seeing Data&lt;/a&gt; and &lt;a href="https://indvil.org/"&gt;INDVIL&lt;/a&gt;) to reflect on the possibilities and challenges of dataviz and the context and constraints that create them.&lt;/p&gt;
+&lt;p&gt;Anna Krystalli (Sheffield RSE) gave an overview of &lt;a href="http://dataviz.shef.ac.uk/"&gt;the work that we’ve been doing to provide self-support materials to Sheffield researchers&lt;/a&gt;, with Martin John Hadley (Oxford University IT Services) joining us to talk about &lt;a href="https://idn.it.ox.ac.uk/"&gt;similar work at Oxford&lt;/a&gt;. We have an ongoing collaboration with Oxford to share the effort of creating resources for researchers in this area.&lt;/p&gt;
+&lt;p&gt;The bulk of the event was then taken up with a series of “lightning” talks from Sheffield researchers giving practical examples of dataviz. These range across many disciplines, from Civil Engineering to Law, and included teaching dataviz to undergraduates and using visualisation both for exploratory early-stage research and communicating findings to a wider audience. We also had &lt;a href="https://www.goodthingsfoundation.org/about/staff/tom-french"&gt;Tom French from the Good Things Foundation&lt;/a&gt; to talk about &lt;a href="https://www.meetup.com/Sheffield-Data-for-Good/"&gt;Sheffield Data for Good&lt;/a&gt; and their work applying data expertise to address the cities social challenges.&lt;/p&gt;
+&lt;p&gt;The event was well attended, and the participants had some valuable conversations over lunch afterwards. We hope this core group will help us organise seminars, workshops &amp;amp; hackathons in the future.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://dataviz.shef.ac.uk/"&gt;Find out more about the Dataviz Hub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://oxshef.netlify.com/"&gt;Find out more about the OxShef dataviz collaboration&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><category>Dataviz</category><category>Dataviz Hub</category><category>dataviz.shef</category><category>Event</category><guid>http://jcope.shef.ac.uk/notes/datavis-hub-launch/</guid><pubDate>Fri, 18 May 2018 13:28:28 GMT</pubDate></item><item><title>Library Carpentry Edinburgh, May 2018</title><link>http://jcope.shef.ac.uk/notes/library-carpentry-edinburgh-2018/</link><dc:creator>Jez Cope</dc:creator><description>&lt;!--
+.. title: Library Carpentry Edinburgh, May 2018
+.. slug: library-carpentry-edinburgh-2018
+.. date: 2018-05-18 14:05:52 UTC+01:00
+.. tags: Library Carpentry,Training,University of Edinburgh
+.. category: Teaching
+.. link: 
+.. description: 
+.. type: text
+--&gt;
+&lt;p&gt;I recently travelled up to Edinburgh to join the University of Sussex’s James Baker in &lt;a href="https://www.ed.ac.uk/information-services/library-museum-gallery/library-carpentry"&gt;delivering a 2-day Library Carpentry workshop&lt;/a&gt; for librarians from Scottish academic libraries and the National Library of Scotland. The material covered was similar to that taught in the White Rose Library Carpentry workshops last year: Data Intro (James), OpenRefine (me), Shell (James) and Python (me).&lt;/p&gt;
+&lt;p&gt;The audience were a great bunch and made teaching a pleasure. I’m grateful to Edinburgh University for hosting the event, especially Sarah Ames and Giacomo Peru for organising it, and of course to the University of Sheffield Library for letting me take the time to do this.&lt;/p&gt;
+&lt;p&gt;I’ll be teaching a full day of &lt;a href="https://openrefine.org"&gt;OpenRefine&lt;/a&gt; for the White Rose libraries next month so this has been a useful experience to help me plan the scope of that.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://librarycarpentry.org"&gt;Library Carpentry has just launched a new website&lt;/a&gt;, so take a look at that for more info and to see what material is available.&lt;/p&gt;</description><category>Library Carpentry</category><category>Training</category><category>University of Edinburgh</category><guid>http://jcope.shef.ac.uk/notes/library-carpentry-edinburgh-2018/</guid><pubDate>Fri, 18 May 2018 13:05:52 GMT</pubDate></item><item><title>DPC Software Preservation webinar series episode 1</title><link>http://jcope.shef.ac.uk/notes/software-pres-webinar-1/</link><dc:creator>Jez Cope</dc:creator><description>&lt;!--
 .. title: DPC Software Preservation webinar series episode 1
 .. slug: software-pres-webinar-1
 .. date: 2018-05-18 09:38:54 UTC+01:00

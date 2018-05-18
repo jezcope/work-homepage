@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jez Cope (Posts about Library Carpentry)</title><link>http://jcope.shef.ac.uk/</link><description></description><atom:link href="http://jcope.shef.ac.uk/categories/library-carpentry.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Fri, 18 May 2018 13:14:13 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Library Carpentry Edinburgh, May 2018</title><link>http://jcope.shef.ac.uk/notes/library-carpentry-edinburgh-2018/</link><dc:creator>Jez Cope</dc:creator><description>&lt;!--
+.. title: Library Carpentry Edinburgh, May 2018
+.. slug: library-carpentry-edinburgh-2018
+.. date: 2018-05-18 14:05:52 UTC+01:00
+.. tags: Library Carpentry,Training,University of Edinburgh
+.. category: Teaching
+.. link: 
+.. description: 
+.. type: text
+--&gt;
+&lt;p&gt;I recently travelled up to Edinburgh to join the University of Sussex’s James Baker in &lt;a href="https://www.ed.ac.uk/information-services/library-museum-gallery/library-carpentry"&gt;delivering a 2-day Library Carpentry workshop&lt;/a&gt; for librarians from Scottish academic libraries and the National Library of Scotland. The material covered was similar to that taught in the White Rose Library Carpentry workshops last year: Data Intro (James), OpenRefine (me), Shell (James) and Python (me).&lt;/p&gt;
+&lt;p&gt;The audience were a great bunch and made teaching a pleasure. I’m grateful to Edinburgh University for hosting the event, especially Sarah Ames and Giacomo Peru for organising it, and of course to the University of Sheffield Library for letting me take the time to do this.&lt;/p&gt;
+&lt;p&gt;I’ll be teaching a full day of &lt;a href="https://openrefine.org"&gt;OpenRefine&lt;/a&gt; for the White Rose libraries next month so this has been a useful experience to help me plan the scope of that.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://librarycarpentry.org"&gt;Library Carpentry has just launched a new website&lt;/a&gt;, so take a look at that for more info and to see what material is available.&lt;/p&gt;</description><category>Library Carpentry</category><category>Training</category><category>University of Edinburgh</category><guid>http://jcope.shef.ac.uk/notes/library-carpentry-edinburgh-2018/</guid><pubDate>Fri, 18 May 2018 13:05:52 GMT</pubDate></item></channel></rss>

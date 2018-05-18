@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jez Cope (Posts about Event)</title><link>http://jcope.shef.ac.uk/</link><description></description><atom:link href="http://jcope.shef.ac.uk/categories/event.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Fri, 18 May 2018 13:28:58 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>dataviz.shef Dataviz Hub Launch</title><link>http://jcope.shef.ac.uk/notes/datavis-hub-launch/</link><dc:creator>Jez Cope</dc:creator><description>&lt;!--
+.. title: dataviz.shef Dataviz Hub Launch
+.. slug: datavis-hub-launch
+.. date: 2018-05-18 14:28:28 UTC+01:00
+.. tags: Dataviz,Dataviz Hub,Event,dataviz.shef
+.. category: Events
+.. link: 
+.. description: 
+.. type: text
+--&gt;
+&lt;p&gt;On Wednesday 25 April, the Library, CiCS and Research Software Engineering (RSE) launched a new University-wide data visualisation forum for researchers to share knowledge, skills &amp;amp; examples of creating visual representations of data.&lt;/p&gt;
+&lt;p&gt;The event was opened by University Librarian Anne Horn, who introduced main speaker Professor &lt;a href="https://www.sheffield.ac.uk/socstudies/staff/staff-profiles/helen-kennedy#tab01"&gt;Helen Kennedy from the Department of Socialogical Studies&lt;/a&gt;. Helen gave us a fascinating introduction to the societal implications of big data and dataviz, drawing on a number of projects (including &lt;a href="http://seeingdata.org/"&gt;Seeing Data&lt;/a&gt; and &lt;a href="https://indvil.org/"&gt;INDVIL&lt;/a&gt;) to reflect on the possibilities and challenges of dataviz and the context and constraints that create them.&lt;/p&gt;
+&lt;p&gt;Anna Krystalli (Sheffield RSE) gave an overview of &lt;a href="http://dataviz.shef.ac.uk/"&gt;the work that we’ve been doing to provide self-support materials to Sheffield researchers&lt;/a&gt;, with Martin John Hadley (Oxford University IT Services) joining us to talk about &lt;a href="https://idn.it.ox.ac.uk/"&gt;similar work at Oxford&lt;/a&gt;. We have an ongoing collaboration with Oxford to share the effort of creating resources for researchers in this area.&lt;/p&gt;
+&lt;p&gt;The bulk of the event was then taken up with a series of “lightning” talks from Sheffield researchers giving practical examples of dataviz. These range across many disciplines, from Civil Engineering to Law, and included teaching dataviz to undergraduates and using visualisation both for exploratory early-stage research and communicating findings to a wider audience. We also had &lt;a href="https://www.goodthingsfoundation.org/about/staff/tom-french"&gt;Tom French from the Good Things Foundation&lt;/a&gt; to talk about &lt;a href="https://www.meetup.com/Sheffield-Data-for-Good/"&gt;Sheffield Data for Good&lt;/a&gt; and their work applying data expertise to address the cities social challenges.&lt;/p&gt;
+&lt;p&gt;The event was well attended, and the participants had some valuable conversations over lunch afterwards. We hope this core group will help us organise seminars, workshops &amp;amp; hackathons in the future.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://dataviz.shef.ac.uk/"&gt;Find out more about the Dataviz Hub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://oxshef.netlify.com/"&gt;Find out more about the OxShef dataviz collaboration&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><category>Dataviz</category><category>Dataviz Hub</category><category>dataviz.shef</category><category>Event</category><guid>http://jcope.shef.ac.uk/notes/datavis-hub-launch/</guid><pubDate>Fri, 18 May 2018 13:28:28 GMT</pubDate></item></channel></rss>

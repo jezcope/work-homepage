@@ -14,12 +14,20 @@
   <lastmod>2018-05-18T08:49:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://jcope.shef.ac.uk/categories/cat_events.xml</loc>
+  <lastmod>2018-05-18T13:27:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://jcope.shef.ac.uk/categories/cat_meetings.xml</loc>
   <lastmod>2018-05-18T08:49:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://jcope.shef.ac.uk/categories/cat_teaching.xml</loc>
+  <lastmod>2018-05-18T13:14:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://jcope.shef.ac.uk/categories/cat_webinars.xml</loc>
-  <lastmod>2018-05-18T09:02:00Z</lastmod>
+  <lastmod>2018-05-18T09:03:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://jcope.shef.ac.uk/categories/citation.xml</loc>
@@ -34,8 +42,28 @@
   <lastmod>2018-05-18T08:49:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://jcope.shef.ac.uk/categories/datashef.xml</loc>
+  <lastmod>2018-05-18T13:26:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://jcope.shef.ac.uk/categories/dataviz-hub.xml</loc>
+  <lastmod>2018-05-18T13:27:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://jcope.shef.ac.uk/categories/dataviz.xml</loc>
+  <lastmod>2018-05-18T13:27:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://jcope.shef.ac.uk/categories/datavizshef.xml</loc>
+  <lastmod>2018-05-18T13:27:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://jcope.shef.ac.uk/categories/digital-preservation.xml</loc>
-  <lastmod>2018-05-18T09:02:00Z</lastmod>
+  <lastmod>2018-05-18T09:03:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://jcope.shef.ac.uk/categories/event.xml</loc>
+  <lastmod>2018-05-18T13:27:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://jcope.shef.ac.uk/categories/figshare.xml</loc>
@@ -48,6 +76,10 @@
  <sitemap>
   <loc>http://jcope.shef.ac.uk/categories/jisc.xml</loc>
   <lastmod>2018-05-18T08:49:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://jcope.shef.ac.uk/categories/library-carpentry.xml</loc>
+  <lastmod>2018-05-18T13:14:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://jcope.shef.ac.uk/categories/metadata.xml</loc>
@@ -63,7 +95,7 @@
  </sitemap>
  <sitemap>
   <loc>http://jcope.shef.ac.uk/categories/reproducibility.xml</loc>
-  <lastmod>2018-05-18T09:02:00Z</lastmod>
+  <lastmod>2018-05-18T09:03:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://jcope.shef.ac.uk/categories/research-data-network.xml</loc>
@@ -79,14 +111,22 @@
  </sitemap>
  <sitemap>
   <loc>http://jcope.shef.ac.uk/categories/software-preservation.xml</loc>
-  <lastmod>2018-05-18T09:02:00Z</lastmod>
+  <lastmod>2018-05-18T09:03:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://jcope.shef.ac.uk/categories/training.xml</loc>
+  <lastmod>2018-05-18T13:14:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://jcope.shef.ac.uk/categories/university-of-edinburgh.xml</loc>
+  <lastmod>2018-05-18T13:14:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://jcope.shef.ac.uk/rss.xml</loc>
-  <lastmod>2018-05-18T09:02:00Z</lastmod>
+  <lastmod>2018-05-18T13:27:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://jcope.shef.ac.uk/sitemap.xml</loc>
-  <lastmod>2018-05-18T09:02:00Z</lastmod>
+  <lastmod>2018-05-18T13:27:00Z</lastmod>
  </sitemap>
 </sitemapindex>
